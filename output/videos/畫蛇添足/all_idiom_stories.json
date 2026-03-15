@@ -1,0 +1,1232 @@
+{
+  "version": "1.0",
+  "description": "每個成語5個不同版本的故事內容",
+  "total_idioms": 12,
+  "total_versions": 60,
+  "idioms": [
+    {
+      "idiom": "畫蛇添足",
+      "pinyin": "huà shé tiān zú",
+      "meaning": "比喻做了多餘的事，反而不恰當",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "小明的美術課",
+          "setting": "小學美術教室",
+          "characters": ["小明", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明在美術課上畫了一條美麗的蛇，老師稱讚畫得很好。小明覺得蛇沒有腳很奇怪，於是給蛇添上了四隻腳。老師看到後笑著說：「蛇本來就沒有腳，你這是畫蛇添足啊！」",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "美術課上，老師宣布今天畫動物", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明選擇畫蛇，認真勾勒線條", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明畫好蛇身，同學們稱讚", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明覺得缺點什麼，決定添腳", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "小明得意展示作品", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "老師指出問題", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明學到教訓", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "做事要恰到好處，不要過度添加不必要的東西"
+        },
+        {
+          "version_id": 2,
+          "title": "爺爺的書法課",
+          "setting": "爺爺家書房",
+          "characters": ["爺爺", "小明"],
+          "duration_seconds": 80,
+          "outline": "爺爺教小明寫書法，小明寫了一幅「龍」字，筆畫蒼勁有力。爺爺稱讚寫得好，小明得意之下，又在龍身上加了幾筆以為更好看，結果反而變醜了。爺爺笑著說這就是畫蛇添足。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爺爺在書房教小明寫書法", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明認真練習「龍」字", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "爺爺稱讚小明寫得好", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明得意，添加更多筆畫", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "作品變醜，小明不解", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "爺爺解釋畫蛇添足道理", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明重新練習", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "有時過度追求完美反而會適得其反"
+        },
+        {
+          "version_id": 3,
+          "title": "小麗的生日蛋糕",
+          "setting": "小麗家廚房",
+          "characters": ["小麗", "媽媽"],
+          "duration_seconds": 80,
+          "outline": "小麗幫媽媽做生日蛋糕，蛋糕做得很好吃。但小麗覺得外表不夠華麗，於是加了很多裝飾和水果，結果蛋糕太重塌了。媽媽笑著說這就是畫蛇添足。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小麗和媽媽準備做蛋糕", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "認真攪拌麵糊", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "蛋糕出爐，很成功", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小麗覺得需要更多裝飾", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "添加太多水果和奶油", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "蛋糕塌了", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "媽媽教導", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "簡單樸實反而最好，過度裝飾會適得其反"
+        },
+        {
+          "version_id": 4,
+          "title": "籃球賽前的練習",
+          "setting": "學校籃球場",
+          "characters": ["小明", "教練", "隊友"],
+          "duration_seconds": 80,
+          "outline": "籃球隊要比赛了，教練教了一套完美的進攻戰術。小明覺得還不夠，又自創了幾個動作加进去。比赛時因為動作太多太複雜，球隊配合失誤连连。教練說這是畫蛇添足。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "籃球隊練習新戰術", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "教練講解戰術要点", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "練習很順利", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明自創動作", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "比赛時配合失誤", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "教練暫停指出問題", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明反省", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "團隊配合要簡單有效，過度複雜反而會出錯"
+        },
+        {
+          "version_id": 5,
+          "title": "小明的日記",
+          "setting": "小明房間",
+          "characters": ["小明", "王老師"],
+          "duration_seconds": 80,
+          "outline": "老師讓大家寫日記，小明寫了一篇很好的作文。老師給了高分，小明很得意，於是把作文改來改去，越改越長，最後變得囉嗦又没有重點。老師說這就是畫蛇添足。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "老師布置日記作業", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明認真寫日記", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "日記獲得高分", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明得意要修改", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "不斷添加內容", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "老師批評變差了", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明學習適度", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "寫作要簡潔有力，過度修改會失去精髓"
+        }
+      ]
+    },
+    {
+      "idiom": "守株待兔",
+      "pinyin": "shǒu zhū dài tù",
+      "meaning": "比喻固守舊有經驗，不知道變通，妄想不勞而獲",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "農夫的教訓",
+          "setting": "農田",
+          "characters": ["爺爺", "小明"],
+          "duration_seconds": 80,
+          "outline": "爺爺給小明講故事：古代有個農夫，每天努力耕田。有一天一隻兔子撞死在樹樁上，農夫撿到後不費力得到肉。從此他不再耕田，天天守在樹樁旁等兔子，結果田地荒廢也沒再撿到兔子。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爺爺開始講故事", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "農夫努力耕田", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "兔子撞死撿到", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "農夫的想法", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "守在樹樁旁等", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "田地荒廢", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "爺爺總結教訓", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語應用", "duration": 10}
+          ],
+          "moral": "不能只想不勞而獲，要腳踏實地努力"
+        },
+        {
+          "version_id": 2,
+          "title": "小明的彩票夢",
+          "setting": "小明家",
+          "characters": ["小明", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "爸爸買彩票中獎了，小明很羨慕。從此小明每天把零用錢都拿去买彩票，梦想著中大獎再也不读书。结果獎没中到，成績也變差了。爸爸教導要腳踏實地。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爸爸中獎新聞", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明羨慕", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明買彩票", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "不做作業專心研究號碼", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "沒中獎", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "成績下降", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "爸爸教導", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "腳踏實地努力才能成功，投机取巧不可靠"
+        },
+        {
+          "version_id": 3,
+          "title": "游戏通关的误区",
+          "setting": "小明房間",
+          "characters": ["小明", "小麗"],
+          "duration_seconds": 80,
+          "outline": "小明玩遊戲發現一個bug可以刷金币，於是天天用這個方法刷钱买装备，以為這樣就能天下無敵。 後來遊戲更新修復了bug，小明的帳號變得一無所有。小麗說這就是守株待兔。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明發現遊戲bug", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "開始刷金币", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "獲得很多裝備", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "不再認真玩", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "遊戲更新", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "帳號清空", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小麗勸導", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要依賴投機取巧，要靠真本領"
+        },
+        {
+          "version_id": 4,
+          "title": "等運氣的學生",
+          "setting": "學校",
+          "characters": ["小明", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明考試不想複習，覺得運氣好就能過。 他每天祈求神明保佑他考試通過，考試時也不認真做題，東張西望等運氣。结果當然考砸了。老師說這是守株待兔。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "考試前小明不複習", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "祈求好運", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "考試時發呆", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "等運氣來", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "成績公佈很差", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明後悔", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "老師教導", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "成功要靠努力，不能只等運氣"
+        },
+        {
+          "version_id": 5,
+          "title": "網紅的教訓",
+          "setting": "小明家/網路",
+          "characters": ["小明", "表哥"],
+          "duration_seconds": 80,
+          "outline": "小明看表哥當網紅很賺錢，覺得自己也可以。 他發了幾個視頻沒人看，就一直不停發，也不學習拍攝技巧。後來他明白了，不努力提升質量是不行的。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "看表哥當網紅成功", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明也想當網紅", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "隨便發視頻", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "沒人看還是一直發", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "熱情消退", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "表哥指導", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "學習技術", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "成功需要努力和技巧，不能只靠運氣"
+        }
+      ]
+    },
+    {
+      "idiom": "亡羊補牢",
+      "pinyin": "wáng yáng bǔ láo",
+      "meaning": "比喻發現問題後及時補救，防止繼續受損失",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "羊圈的教訓",
+          "setting": "爺爺的農場",
+          "characters": ["爺爺", "小明"],
+          "duration_seconds": 80,
+          "outline": "爺爺的羊圈破了一個洞，第一天少了一隻羊。鄰居勸他修補，爺爺說不用急。第二天又少了一隻羊，爺爺趕快修補羊圈，從此再也沒丢過羊。這個故事告訴我們亡羊補牢，為時不晚。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "羊圈破洞", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "第一天丢羊", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "鄰居勸修補", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "爺爺不聽", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "第二天又丢羊", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "趕快修補", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "不再丢羊", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "發現問題要及時補救，不要等到損失更大"
+        },
+        {
+          "version_id": 2,
+          "title": "小明的考試",
+          "setting": "學校/小明家",
+          "characters": ["小明", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明第一次數學考試没考好，只得了60分。他很伤心但没有放弃，而且认真分析错题，把不会的题目弄懂。第二次考试进步到85分。老师说这就是亡羊补牢。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "考試成績公佈", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明只考60分", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "傷心後決定努力", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "認真複習錯題", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "第二次考試", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "進步到85分", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "老師稱讚", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "失敗後及時改正，永遠不嫌晚"
+        },
+        {
+          "version_id": 3,
+          "title": "腳踏車的教訓",
+          "setting": "路上/家",
+          "characters": ["小明", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "小明的腳踏車鏈條掉了，爸爸說要修，小明說還能騎。 結果鏈條卡住差點摔倒，小明趕快讓爸爸修好。以後每次腳踏車有問題他都及時修理。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "腳踏車鏈條掉了", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "爸爸說要修", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明說不用", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "差點摔倒", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "趕快修理", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "修好後正常", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明學會了", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "小問題要及時處理，不要等到出大事"
+        },
+        {
+          "version_id": 4,
+          "title": "友誼的修復",
+          "setting": "學校",
+          "characters": ["小明", "小麗", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明和小麗吵架了，誰也不理誰。有同學勸他們和好，小明覺得沒關係。 後來小麗轉學了，小明很後悔沒有珍惜友誼。 他寫了一封信道歉，從此學會及時修補關係。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明和小麗吵架", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "誰也不理誰", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "同學勸和好", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明不以為然", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "小麗轉學", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明很後悔", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "寫信道歉", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "友誼需要維護，要及時修補裂痕"
+        },
+        {
+          "version_id": 5,
+          "title": "牙齒的警告",
+          "setting": "牙醫診所/家",
+          "characters": ["小明", "媽媽", "牙醫"],
+          "duration_seconds": 80,
+          "outline": "小明蛀牙了，媽媽說要去看牙醫，小明怕疼不肯去。 後來牙齒越來越疼，吃不了東西，小明趕快去看牙醫。 牙醫治好了牙齒，小明從此認真刷牙。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明蛀牙", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "媽媽勸看牙醫", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明不肯去", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "牙齒越來越疼", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "疼到吃不了東西", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "趕快看牙醫", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "治療完成", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "小病要及時醫治，不能拖延"
+        }
+      ]
+    },
+    {
+      "idiom": "掩耳盜鈴",
+      "pinyin": "yǎn ěr dào líng",
+      "meaning": "比喻自己欺騙自己，以為自己不去注意，別人也不會知道",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "晉國的神鐘",
+          "setting": "古代晉國",
+          "characters": ["小偷", "旁白"],
+          "duration_seconds": 80,
+          "outline": "古代晉國有一口大鐘，小偷想偷走但鐘太大搬不走。他想到敲碎拿走，卻怕聲音太大被人聽到。於是他捂住自己的耳朵，發現真的聽不到聲音，於是大膽敲鐘。 結果別人聽到鐘聲把他抓住了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小偷看到大鐘", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "想偷走但搬不动", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "想敲碎拿走", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "怕聲音太大", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "捂住自己耳朵", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "大膽敲鐘", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "被抓獲", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "自己聽不到，不代表別人聽不到"
+        },
+        {
+          "version_id": 2,
+          "title": "小明作弊",
+          "setting": "教室",
+          "characters": ["小明", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明考試不會寫，想作弊看同學的答案。他覺得只要自己不被發現就行，於是把答案紙放在桌子下偷看。其實老師從講台上看得一清二楚。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "考試開始", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明不會寫", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "想要作弊", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "偷偷拿出答案", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "以為沒人看到", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "被老師發現", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "批評教育", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "以為自己做得隱蔽，其實別人都知道"
+        },
+        {
+          "version_id": 3,
+          "title": "客廳看電視",
+          "setting": "小明家",
+          "characters": ["小明", "媽媽"],
+          "duration_seconds": 80,
+          "outline": "小明偷偷在客廳看電視，媽媽說不能看太久。小明覺得媽媽在廚房聽不到，於是打開聲音很大。其實媽媽從廚房走出來把他抓住了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "媽媽去廚房", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明想看電視", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "打開電視", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "以為媽媽聽不到", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "聲音越來越大", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "媽媽出現", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "被批評", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要以為偷偷做沒人知道"
+        },
+        {
+          "version_id": 4,
+          "title": "偷吃零食",
+          "setting": "家裡",
+          "characters": ["小明", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "爸爸把零食藏在高處，說不能多吃。小明等爸爸不在家，偷偷站在椅子上拿零食。他以為爸爸不知道，其實客廳的監視器都拍下來了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爸爸藏零食", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明想吃", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "爸爸出門", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明偷偷拿", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "吃得津津有味", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "爸爸回來", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "看監視器", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "以為神不知鬼不覺，其實有跡可循"
+        },
+        {
+          "version_id": 5,
+          "title": "作業抄襲",
+          "setting": "學校/家",
+          "characters": ["小明", "小麗", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明不想寫作業，抄了小麗的作業。他以為老師不會發現，沒想到老師看到兩份作業一模一樣。小明後悔不已。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明不想寫作業", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "看到小麗的作業", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "決定抄襲", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "以為沒事", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "交作業", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "被老師發現", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "批評教育", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "抄襲總會被發現僞裝沒用"
+        }
+      ]
+    },
+    {
+      "idiom": "狐假虎威",
+      "pinyin": "hú jiǎ hǔ wēi",
+      "meaning": "比喻倚仗別人的威勢來嚇唬人",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "狐狸和老虎",
+          "setting": "森林",
+          "characters": ["狐狸", "老虎", "動物們"],
+          "duration_seconds": 80,
+          "outline": "老虎抓住狐狸要吃掉它，狐狸說它是天帝派來管所有野獸的。老虎不信，狐狸說可以跟在它後面看。動物們看到老虎都嚇跑了，其實牠們怕的是老虎，不是狐狸。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "老虎抓住狐狸", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "狐狸說自己是天帝派的", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "老虎不相信", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "狐狸讓老虎跟著走", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "野獸們嚇跑", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "老虎以為怕狐狸", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "狐狸逃跑", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要仗勢欺人，別人怕的是你背後的人"
+        },
+        {
+          "version_id": 2,
+          "title": "小明借爸爸的車",
+          "setting": "學校/路上",
+          "characters": ["小明", "同學", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "小明向同學炫耀爸爸的豪車，說這是我家的車。其實那是爸爸借朋友的。同學們很羨慕，結果後來知道真相很不高興。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爸爸開豪車送小明", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "同學圍觀羨慕", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明說這是我家的", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "同學相信了", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "真相揭穿", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "同學們生氣", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明道歉", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要借別人的東西炫耀"
+        },
+        {
+          "version_id": 3,
+          "title": "班長的架子",
+          "setting": "學校",
+          "characters": ["小明", "班長", "同學"],
+          "duration_seconds": 80,
+          "outline": "班長喜歡狐假虎威，拿著老師的名義嚇同學。他說這是老師說的，其實老師沒說。 後來同學直接問老師，班長被批評了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "班長管理班級", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "喜歡嚇同學", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "狐假虎威", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "同學害怕", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "同學問老師", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "發現是假的", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "班長被批評", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要假借他人名義行事"
+        },
+        {
+          "version_id": 4,
+          "title": "爐爺的拐杖",
+          "setting": "市場",
+          "characters": ["爺爺", "小販", "小明"],
+          "duration_seconds": 80,
+          "outline": "爺爺去買菜，拿著名貴拐杖（其實是借的）和小販理論。小贩以為爺爺有背景，不敢欺負他。後來才知道那是借的。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爺爺借拐杖", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "去市場買菜", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "和小販理論", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小販以為有背景", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "不敢欺負", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "真相揭穿", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小販無奈", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "狐假虎威只能嚇一時"
+        },
+        {
+          "version_id": 5,
+          "title": "小麗的文具",
+          "setting": "學校",
+          "characters": ["小麗", "同學", "媽媽"],
+          "duration_seconds": 80,
+          "outline": "小麗把媽媽公司的文具帶到學校，說這是公司給她的。同學們很羨慕，結果老師說不能隨便拿公司的東西，小麗很慚愧。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小麗拿媽媽公司文具", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "帶到學校", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "同學羨慕", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小麗炫耀", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "老師發現", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "批評教育", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小麗道歉", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要把別人的東西當成自己的"
+        }
+      ]
+    },
+    {
+      "idiom": "刻舟求劍",
+      "pinyin": "kè zhōu qiú jiàn",
+      "meaning": "比喻固執拘泥，不知道根據情況的變化來處理問題",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "楚國人的劍",
+          "setting": "江邊/船上",
+          "characters": ["楚國人", "船夫", "旁白"],
+          "duration_seconds": 80,
+          "outline": "古代楚國人渡江時，寶劍掉進水裡。他不慌不忙在船舷上刻了記號，說等船靠岸後再從記號處下水找劍。船靠岸後他下水找當然找不到，因為船已經走了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "楚國人渡江", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "寶劍掉入水中", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "刻記號在船邊", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "說要從這裡找", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "船繼續行駛", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "船靠岸後下水找", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "當然找不到", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "情況變了，方法也要跟著變"
+        },
+        {
+          "version_id": 2,
+          "title": "小明的手機",
+          "setting": "公車站/家",
+          "characters": ["小明", "司機", "媽媽"],
+          "duration_seconds": 80,
+          "outline": "小明坐公車掉手機了，他在掉手機的位置做記號，想著下一站回去找。其實車已經開走了，手機早就被人撿走了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明坐公車", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "發現手機掉了", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "做記號", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "想著回去找", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "公車繼續開", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "回去找不到", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "媽媽教訓", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "東西掉了要馬上找，不能死守固定思維"
+        },
+        {
+          "version_id": 3,
+          "title": "字典查不到的字",
+          "setting": "小明房間/學校",
+          "characters": ["小明", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明查字典找不到一個字，堅持用舊版字典。其實那個字在新版字典裡有不同查法。老師說這就是刻舟求劍。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明查不到字", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "用舊字典不放", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "一直找不到", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "同學說用新字典", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "還是不聽", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "老師指導", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "學會變通", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "要學會變通，不能固執己見"
+        },
+        {
+          "version_id": 4,
+          "title": "複習舊試卷",
+          "setting": "小明房間",
+          "characters": ["小明", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "考試要到了，小明只複習去年的試卷，以為題目都一樣。結果考試題目完全不一樣，考砸了。爸爸說這是刻舟求劍。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "考試快到了", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明只複習舊試卷", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "以為都一樣", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "爸爸勸也不聽", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "考試發現題目不同", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "考砸了", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "爸爸教導", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不能只用舊方法應對新情況"
+        },
+        {
+          "version_id": 5,
+          "title": "不會用新手機",
+          "setting": "爺爺家",
+          "characters": ["爺爺", "小明"],
+          "duration_seconds": 80,
+          "outline": "爺爺買了新智能手機，但堅持用老方法操作。小明教他觸摸操作，爺爺說以前按鍵好。 結果很多新功能都不會用。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爺爺買新手機", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "堅持用老方法", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明教新方法", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "爺爺不接受", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "新功能不會用", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "很苦惱", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "學會觸摸操作", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "時代變了，要學會適應新事物"
+        }
+      ]
+    },
+    {
+      "idiom": "井底之蛙",
+      "pinyin": "jǐng dǐ zhī wā",
+      "meaning": "比喻眼光狹窄、見識短淺的人",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "青蛙和海龜",
+          "setting": "井底/海邊",
+          "characters": ["青蛙", "海龜", "旁白"],
+          "duration_seconds": 80,
+          "outline": "青蛙住在井底，覺得自己的井就是全世界。海龜來訪，青蛙炫耀說天空只有井口那麼大。海龜說起大海的寬廣，青蛙才知道自己有多渺小。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "青蛙住在井底", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "青蛙很滿足", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "海龜來訪", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "青蛙炫耀井", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "海龜說大海", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "青蛙吃驚", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "青蛙感嘆", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "要見多識廣，不要眼光狹隘"
+        },
+        {
+          "version_id": 2,
+          "title": "小明的村子",
+          "setting": "小明村/城市",
+          "characters": ["小明", "爸爸", "導遊"],
+          "duration_seconds": 80,
+          "outline": "小明從沒離開過村子，覺得自己的村莊最漂亮。爸爸帶他去大城市旅遊，看到高樓大廈和繁華商場，小明才知道自己以前眼光太狹窄了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明在村子裡", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "覺得村子最棒", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "爸爸帶去城市", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "看到高樓", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "看到繁華商場", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明吃驚", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "感嘆世界很大", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "要多出去走走，見識更廣闊的世界"
+        },
+        {
+          "version_id": 3,
+          "title": "只喜歡一種遊戲",
+          "setting": "學校/家",
+          "characters": ["小明", "小麗", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明只喜歡玩一種遊戲，覺得其他遊戲都無聊。 同學推薦其他遊戲，他也不願意嘗試。後來老師讓大家交換玩，才發現很多遊戲都很有趣。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明只玩一種遊戲", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "覺得其他無聊", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "同學推薦", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明不接受", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "老師讓交換", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "發現其他也好玩", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "學會嘗試", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要固步自封，要多嘗試新事物"
+        },
+        {
+          "version_id": 4,
+          "title": "爺爺的舊觀念",
+          "setting": "爺爺家",
+          "characters": ["爺爺", "小明", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "爺爺總說以前的東西最好，現在的科技都不好用。小明給爺爺看網上購物、外賣app的便利，爺爺慢慢接受了新事物。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "爺爺說舊東西好", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "不接受新東西", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明示範新科技", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "爺爺還是不信", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "親身體驗", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "覺得很好用", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "接受新事物", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不要固執，要開放心態接受新事物"
+        },
+        {
+          "version_id": 5,
+          "title": "只看一本書",
+          "setting": "圖書館",
+          "characters": ["小明", "圖書館管理員"],
+          "duration_seconds": 80,
+          "outline": "小明只喜歡看科學書，覺得其他書都沒意思。管理員推薦他看歷史、文学、藝術各類書籍，小明發現世界比想象中更豐富。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明只看科學書", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "覺得其他書無聊", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "管理員推薦", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明不情願", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "借了其他書", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "發現很有趣", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "愛上閱讀", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "要多讀不同類型的書，拓寬視野"
+        }
+      ]
+    },
+    {
+      "idiom": "葉公好龍",
+      "pinyin": "yè gōng hào lóng",
+      "meaning": "比喻表面上喜歡某樣東西，實際上並不真正喜歡",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "葉公和真龍",
+          "setting": "葉公家",
+          "characters": ["葉公", "真龍", "旁白"],
+          "duration_seconds": 80,
+          "outline": "古代葉公喜歡龍，家裡到處畫著龍的圖案。有一天真龍來拜訪，葉公看到真的龍卻嚇得逃跑。原來他只喜歡畫的龍，不是真的龍。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "葉公家裡畫滿龍", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "逢人說喜歡龍", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "真龍來拜訪", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "葉公看到真龍", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "嚇得逃跑", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "真龍失望", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "原來是假喜歡", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "真喜歡就要勇敢面對，不能只喜歡假的"
+        },
+        {
+          "version_id": 2,
+          "title": "小明說喜歡讀書",
+          "setting": "小明家/學校",
+          "characters": ["小明", "王老師", "小麗"],
+          "duration_seconds": 80,
+          "outline": "小明總說自己最喜歡讀書，但家裡的書從來不翻。同學小麗約他去圖書館，他找藉口不去。原來他只是說說而已。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明說喜歡讀書", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "家裡書很多", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小麗約去圖書館", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明找藉口", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "老師揭穿", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明不好意思", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "決定真正讀書", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "說喜歡就要真正去做，不能只是說說"
+        },
+        {
+          "version_id": 3,
+          "title": "喜歡寵物",
+          "setting": "寵物店/小明家",
+          "characters": ["小明", "媽媽", "店主"],
+          "duration_seconds": 80,
+          "outline": "小明說最喜歡小狗，媽媽帶他去領養。他看到真的小狗卻嫌棄會掉毛、會叫，要養貴賓狗。後來才知道他不是真的喜歡寵物。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明說喜歡小狗", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "媽媽帶去領養", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "看到普通小狗", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "嫌棄掉毛會叫", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "要貴賓狗", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "媽媽說不是真喜歡", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明反省", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "真喜歡就要接受全部，不能只想要好的"
+        },
+        {
+          "version_id": 4,
+          "title": "說喜歡運動",
+          "setting": "學校操場",
+          "characters": ["小明", "體育老師", "隊友"],
+          "duration_seconds": 80,
+          "outline": "小明說最喜歡運動，但每次體育課都找藉口不運動。同學約他去打球，他說要寫作業。原來他只是說說。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明說喜歡運動", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "體育課不想動", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "同學約打球", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明拒絕", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "老師批評", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明反省", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "開始運動", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "行動才能證明喜歡"
+        },
+        {
+          "version_id": 5,
+          "title": "喜歡畫畫",
+          "setting": "美術教室",
+          "characters": ["小明", "王老師", "小麗"],
+          "duration_seconds": 80,
+          "outline": "小明說最喜歡畫畫，但從不主動畫畫。老師讓他自己創作，他說不知道畫什麼。原來他只喜歡看別人畫，不是真的喜歡畫。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明說喜歡畫畫", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "從不主動畫", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "老師讓創作", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "說不知道畫什麼", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "看小麗畫", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "老師教導", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "開始動手", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "真喜歡就要親身去做"
+        }
+      ]
+    },
+    {
+      "idiom": "龜兔賽跑",
+      "pinyin": "guī tù sài pǎo",
+      "meaning": "比喻驕傲自大的人即使有優勢也會失敗，勤奮的人最終會成功",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "烏龜和兔子賽跑",
+          "setting": "森林/賽道",
+          "characters": ["烏龜", "兔子", "裁判", "動物們"],
+          "duration_seconds": 80,
+          "outline": "兔子和烏龜比賽跑步，兔子因為自己跑得快在半路睡覺，烏龜慢慢爬最後反而贏了。這個故事告訴我們不能驕傲，要腳踏實地。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "動物們決定比賽", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "兔子和烏龜報名", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "比賽開始，兔子領先", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "兔子覺得必贏開始睡覺", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "烏龜慢慢前進", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "兔子還在睡", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "烏龜到達終點獲勝", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不能驕傲自大，勤奮才能成功"
+        },
+        {
+          "version_id": 2,
+          "title": "小明和小強跑步",
+          "setting": "學校操場",
+          "characters": ["小明", "小強", "體育老師"],
+          "duration_seconds": 80,
+          "outline": "小明跑得快，跑步比賽時覺得小強跑得慢肯定追不上。 他在中途減速喝水，沒想到小強堅持不懈，最後反而超過了他。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "準備跑步比賽", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明小強一起參賽", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明領先很多", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明減速喝水", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "小強繼續跑", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明看到追過來", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小強獲勝", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不能輕視對手，要坚持到最后"
+        },
+        {
+          "version_id": 3,
+          "title": "鋼琴比賽",
+          "setting": "音樂廳",
+          "characters": ["小明", "小麗", "評審"],
+          "duration_seconds": 80,
+          "outline": "小明學鋼琴很久，覺得自己彈得最好。比賽時他看到小麗是新手就大意，沒有認真準備。 結果小麗每天練習，彈得比他更好。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "鋼琴比賽報名", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明覺得自己最棒", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小麗每天練習", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明不練習", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "比賽開始", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小麗彈得很好", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小麗獲獎", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "勤奮可以戰勝驕傲"
+        },
+        {
+          "version_id": 4,
+          "title": "籃球決賽",
+          "setting": "籃球場",
+          "characters": ["小明", "隊友", "教練", "對手"],
+          "duration_seconds": 80,
+          "outline": "籃球決賽，小明這隊領先很多。他開始show off（炫耀），投很多花哨的球。對手抓緊機會追分，最後反超獲勝。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "籃球決賽開始", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明這隊領先", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明開始炫耀", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "對手追分", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "分數越來越接近", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明想挽回", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "對手獲勝", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "驕傲會讓優勢變劣势"
+        },
+        {
+          "version_id": 5,
+          "title": "背單字比賽",
+          "setting": "英語教室",
+          "characters": ["小明", "小麗", "王老師"],
+          "duration_seconds": 80,
+          "outline": "英語背單字比賽，小明覺得自己英語好，不用複習。 小麗認真複習，一個一個記。 比賽時小明很多忘了，小麗全部背出來。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "英語單字比賽", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明覺得不用複習", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小麗認真背", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明在玩", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "比賽開始", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明忘記很多", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小麗獲勝", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不能仗著天賦就不努力"
+        }
+      ]
+    },
+    {
+      "idiom": "鐵杵磨針",
+      "pinyin": "tiě chǔ mó zhēn",
+      "meaning": "比喻只要有恆心、有毅力，再困難的事也能完成",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "李白和老奶奶",
+          "setting": "河邊/書房",
+          "characters": ["李白", "老奶奶", "旁白"],
+          "duration_seconds": 80,
+          "outline": "李白小時候不愛讀書，常逃學出去玩。有一次他在河邊看到一位老奶奶在磨一根粗鐵棒，說要把鐵棒磨成針。李白很驚訝，老奶奶說只要功夫深，鐵杵也能磨成針。李白從此發奮讀書，終於成為大詩人。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "李白逃學玩", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "在河邊看到老奶奶", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "老奶奶磨鐵棒", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "李白問為什麼", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "老奶奶說道理", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "李白受教育", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "李白發奮讀書", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "只要有恆心，鐵杵也能磨成針"
+        },
+        {
+          "version_id": 2,
+          "title": "小明學鋼琴",
+          "setting": "鋼琴教室/家",
+          "characters": ["小明", "鋼琴老師", "媽媽"],
+          "duration_seconds": 80,
+          "outline": "小明開始學鋼琴，覺得很難想要放棄。媽媽帶他去河邊看到一位老爺爺在用竹子刻小船，雕得很精細。老爺爺說只要有耐心，什麼都能做好。小明從此認真練習，終於彈得很好。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明學鋼琴", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "覺得太難想放棄", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "媽媽帶去河邊", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "老爺爺刻竹子", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "老爺爺說道理", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明受教育", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "認真練習", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "堅持下去就能成功"
+        },
+        {
+          "version_id": 3,
+          "title": "小麗學畫畫",
+          "setting": "美術教室",
+          "characters": ["小麗", "美術老師"],
+          "duration_seconds": 80,
+          "outline": "小麗學畫畫，一開始畫得很難看，想放棄。老師給她看自己以前的練習本，厚厚一本都是醜畫。小麗才知道老師也是慢慢練成的，從此每天練習一小時，畫得越來越好。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小麗學畫畫", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "畫得難看想放棄", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "老師展示練習本", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小麗很吃驚", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "決定每天練習", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "堅持一個月", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "畫得很好", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "成功需要時間和努力"
+        },
+        {
+          "version_id": 4,
+          "title": "背英語單字",
+          "setting": "學校/家",
+          "characters": ["小明", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明英語很差，覺得背單字太難。老師說每天背三個，一年就會一千個。小明開始每天堅持背，一年後真的進步很多，老師稱讚他。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明英語很差", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "覺得背單字太難", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "老師教方法", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明每天背三個", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "持續一個月", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "認識很多單字", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "英語進步", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "累積努力會有成果"
+        },
+        {
+          "version_id": 5,
+          "title": "學騎腳踏車",
+          "setting": "公園",
+          "characters": ["小明", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "小明學騎腳踏車，摔了幾次不想學了。爸爸說每個人一開始都會摔，練習多就會了。小明堅持練習，摔倒了再爬起來，終於學會了騎車。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明學騎車", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "摔倒了", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "想放棄", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "爸爸鼓勵", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "繼續練習", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "多次摔倒", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "終於學會", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "不放棄就能學會"
+        }
+      ]
+    },
+    {
+      "idiom": "塞翁失馬",
+      "pinyin": "sài wēng shī mǎ",
+      "meaning": "比喻一時雖然受到損失，反而因此得到好處；好事可以變成壞事，壞事可以變成好事",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "塞翁的馬",
+          "setting": "邊塞/草原",
+          "characters": ["塞翁", "兒子", "鄰居", "旁白"],
+          "duration_seconds": 80,
+          "outline": "邊塞老人的馬跑了，鄰居安慰他，他說不一定是壞事。馬居然帶著更好的胡馬回來，大家恭喜他，他說不一定有好處。兒子騎馬摔斷腿，大家又安慰他，他說不一定是壞事。 後來征兵，兒子因為腿斷不用當兵保住性命。這個故事告訴我們福禍相依。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "老人的馬跑了", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "鄰居安慰", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "馬帶胡馬回來", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "兒子摔斷腿", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "征兵開始", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "兒子不用當兵", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "大家明白道理", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "福禍相依，好事壞事會轉化"
+        },
+        {
+          "version_id": 2,
+          "title": "小明摔傷腿",
+          "setting": "學校/家",
+          "characters": ["小明", "媽媽", "老師", "同學"],
+          "duration_seconds": 80,
+          "outline": "小明體育課摔傷腿，不能上學。他很傷心，但媽媽說可以趁機在家學習。結果他在家看了很多書，學習進步了。傷好後老師發現他變聰明了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明摔傷腿", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "不能上學傷心", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "媽媽安慰", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "在家看書學習", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "腿傷好了", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "學習進步", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "老師稱讚", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "塞翁失馬，焉知非福"
+        },
+        {
+          "version_id": 3,
+          "title": "比賽沒得名",
+          "setting": "比賽會場/家",
+          "characters": ["小明", "教練", "爸爸"],
+          "duration_seconds": 80,
+          "outline": "小明參加繪畫比賽沒有得名，很傷心。爸爸說可以趁機看看自己哪裡不足。小明認真研究獲獎作品，發現自己缺點，第二年更加努力，終於獲獎了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "比賽沒得名", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明很傷心", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "爸爸安慰", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "研究獲獎作品", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "發現不足", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "努力改進", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "第二年獲獎", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "失敗是成功之母"
+        },
+        {
+          "version_id": 4,
+          "title": "下雨天",
+          "setting": "家/公園",
+          "characters": ["小明", "小麗", "媽媽"],
+          "duration_seconds": 80,
+          "outline": "小明約小麗去公園玩，但下雨了不能去。小明很失望。媽媽說可以在家做手工。後來小明做了很棒的手工，還和小麗分享。晴天時小麗說那天可惜沒去，小明說在家也很開心。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "約好去公園", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "下雨了", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "小明失望", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "媽媽建議做手工", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "做出很棒的手工", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "和小麗分享", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "雨天也有樂趣", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "壞事可以變好事"
+        },
+        {
+          "version_id": 5,
+          "title": "手機掉了",
+          "setting": "路上/家",
+          "characters": ["小明", "媽媽", "路人"],
+          "duration_seconds": 80,
+          "outline": "小明新手機掉了，很傷心。媽媽說可以省下玩手機時間做運動。後來小明開始每天跑步，身體變好了。同學說他變帥了，媽媽說塞翁失馬。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "新手機掉了", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明很傷心", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "媽媽安慰", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "開始運動", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "身體變好", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "同學稱讚", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "因禍得福", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "有時失去一樣會得到另一样"
+        }
+      ]
+    },
+    {
+      "idiom": "對牛彈琴",
+      "pinyin": "duì niú tán qín",
+      "meaning": "比喻對不講道理的人講道理，或是對外行人說內行話",
+      "versions": [
+        {
+          "version_id": 1,
+          "title": "公明儀彈琴",
+          "setting": "草地/河邊",
+          "characters": ["公明儀", "老農", "牛", "旁白"],
+          "duration_seconds": 80,
+          "outline": "古代音樂家公明儀在草地彈琴給牛聽。他彈了最優雅的曲子，牛卻只顧著吃草，理都不理。公明儀換了首曲子，牛還是不理。老農笑著說你對牛彈琴，牛哪裡懂呢？",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "公明儀在草地", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "看到牛想彈琴給它聽", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "彈優雅曲子", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "牛只顧吃草", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "換其他曲子", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "牛還是不理", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "老農笑話", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "說話要看對象，不對牛彈琴"
+        },
+        {
+          "version_id": 2,
+          "title": "小明教爺爺",
+          "setting": "爺爺家",
+          "characters": ["小明", "爺爺"],
+          "duration_seconds": 80,
+          "outline": "小明學了量子物理，很高興回家教爺爺。他講得天花亂墜，爺爺完全聽不懂。爺爺說你對我彈琴，我哪裡懂呢？小明才知道要對不同人說不同的話。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明學了新知識", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "回家想教爺爺", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "講量子物理", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "爺爺聽不懂", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "小明繼續講", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "爺爺睡著了", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "小明明白", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "說話要看對象"
+        },
+        {
+          "version_id": 3,
+          "title": "和不懂的人討論",
+          "setting": "教室/討論會",
+          "characters": ["小明", "小麗", "王老師"],
+          "duration_seconds": 80,
+          "outline": "小明喜歡討論很深奧的哲學問題，但同學們都不懂。他一直說個不停，同學們一臉茫然。老師說你這是對牛彈琴，要找志同道合的人。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明喜歡哲學", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "和同學討論", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "講得很深奧", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "同學聽不懂", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "小明繼續說", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "老師勸導", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "找對對象", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "要找對聽眾"
+        },
+        {
+          "version_id": 4,
+          "title": "和外國人說中文",
+          "setting": "語言交換活動",
+          "characters": ["小明", "外國同學"],
+          "duration_seconds": 80,
+          "outline": "小明和交換學生用中文聊天，但對方中文不好。小明說很快，對方完全聽不懂。小明一直說，對方一臉茫然。 後來改用英文就好了。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "語言交換活動", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "小明用中文說", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "說太快對方不懂", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小明繼續說", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "對方無奈", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "改用英文", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "終於溝通", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "要使用對方能理解的語言"
+        },
+        {
+          "version_id": 5,
+          "title": "給寵物講故事",
+          "setting": "小明家",
+          "characters": ["小明", "小狗"],
+          "duration_seconds": 80,
+          "outline": "小明看完電影，很想和家裡的小狗分享。他對著小狗講故事情節，講得眉飛色舞。小狗只是歪著頭看他，然後跑去吃狗糧了。媽媽笑著說你對牛彈琴呢。",
+          "scenes": [
+            {"scene": 1, "phase": "起", "description": "小明看完電影", "duration": 10},
+            {"scene": 2, "phase": "起", "description": "想和小狗分享", "duration": 10},
+            {"scene": 3, "phase": "承", "description": "對著小狗講", "duration": 10},
+            {"scene": 4, "phase": "承", "description": "小狗歪頭", "duration": 10},
+            {"scene": 5, "phase": "轉", "description": "小狗跑去吃東西", "duration": 10},
+            {"scene": 6, "phase": "轉", "description": "小明無奈", "duration": 10},
+            {"scene": 7, "phase": "合", "description": "媽媽笑話", "duration": 10},
+            {"scene": 8, "phase": "合", "description": "成語總結", "duration": 10}
+          ],
+          "moral": "對不懂的對象說是白費力氣"
+        }
+      ]
+    }
+  ]
+}

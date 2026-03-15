@@ -1,0 +1,201 @@
+{
+  "story_title": "宇宙袋鼠籃球災難",
+  "story_id": "畫蛇添足_v4_動物版",
+  "total_scenes": 8,
+  "grid_layout": "3x3",
+  "characters": {
+    "protagonist": {
+      "name": "袋鼠小跳",
+      "animal": "袋鼠",
+      "appearance": "棕色毛皮，巨大強壯後腿，胸前口袋，身穿籃球背心，尖耳會隨興奮度豎起，粗壯尾巴保持平衡",
+      "reference_id": "kangaroo_xiaotiao"
+    },
+    "supporting": [
+      {
+        "name": "獅子王教練",
+        "animal": "獅子",
+        "appearance": "金色鬃毛，威嚴面容，戴著口哨，身穿教練服，鬃毛會隨怒氣燃燒",
+        "reference_id": "lion_coach"
+      },
+      {
+        "name": "狼群隊",
+        "animal": "灰狼",
+        "appearance": "灰色毛皮，尖牙利爪，團隊合作無間",
+        "reference_id": "wolf_team"
+      }
+    ]
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "phase": "起",
+      "name": "宇宙決賽開場",
+      "duration": 12,
+      "description": "太空球場，地球在背景，觀眾是各種外星動物。巨大計分板顯示100分領先！袋鼠小跳是超級明星，挺著胸膛，尾巴驕傲搖擺",
+      "camera_angle": "wide establishing shot",
+      "composition": "袋鼠小跳站在球場中央，背景是太空和星球，計分板顯示巨大100分，外星動物觀眾席",
+      "mood": "史詩、興奮、驕傲",
+      "key_elements": [
+        "太空球場背景",
+        "地球和星球",
+        "巨大計分板100分",
+        "袋鼠小跳自信站立",
+        "外星動物觀眾"
+      ],
+      "nano_banana_prompt": "A futuristic space basketball court, planet Earth visible in the starry background, giant holographic scoreboard showing 100 points, Kangaroo Xiaotiao in basketball jersey standing confidently center court with chest puffed out and tail swaying proudly, alien animal audience in stands, epic sci-fi anime style, vibrant colors, wide establishing shot, 4K quality"
+    },
+    {
+      "scene_number": 2,
+      "phase": "起",
+      "name": "獅子教練的警告",
+      "duration": 12,
+      "description": "獅子王教練叫暫停，鬃毛威嚴飄動，冷靜說「穩住球就贏了」。袋鼠小跳表面點頭，內心不服",
+      "camera_angle": "medium shot, over-the-shoulder",
+      "composition": "左側獅子教練威嚴地看著右側袋鼠小跳，小跳表面點頭但眼神飄忽，內心出現惡魔袋鼠",
+      "mood": "緊張、對立、內心掙扎",
+      "key_elements": [
+        "獅子教練嚴肅表情",
+        "鬃毛飄動",
+        "袋鼠小跳眼神飄忽",
+        "惡魔袋鼠內心獨白",
+        "暫停手勢"
+      ],
+      "nano_banana_prompt": "Lion coach with majestic golden mane flowing, wearing coach uniform and whistle, looking sternly at Kangaroo Xiaotiao who is nodding but eyes darting away, small demon kangaroo thought bubble showing inner rebellion, tense atmosphere, medium shot, modern anime style, dramatic lighting"
+    },
+    {
+      "scene_number": 3,
+      "phase": "承",
+      "name": "究極絕招啟動",
+      "duration": 14,
+      "description": "袋鼠小跳拿到球，大喊「究極百連招！」開始瘋狂運球！後撤步！轉身！胯下！背後！袋鼠跳躍！動作產生閃電環繞",
+      "camera_angle": "dynamic action shot, low angle",
+      "composition": "袋鼠小跳動態運球姿勢，尾巴旋轉保持平衡，閃電特效環繞，火焰軌跡，進入星形狀態，動作殘影",
+      "mood": "熱血、誇張、炫技",
+      "key_elements": [
+        "袋鼠小跳動態運球",
+        "尾巴旋轉",
+        "閃電特效",
+        "火焰軌跡",
+        "動作殘影",
+        "籃球"
+      ],
+      "nano_banana_prompt": "Kangaroo Xiaotiao performing ultimate 100-combo basketball move, dynamic dribbling pose, tail spinning for balance, lightning effects surrounding body, flame trails, action blur and afterimages, powerful athletic stance, basketball in motion, shounen anime style, intense energy, low angle dramatic shot, electric blue and orange colors"
+    },
+    {
+      "scene_number": 4,
+      "phase": "承",
+      "name": "100連招的瘋狂",
+      "duration": 12,
+      "description": "袋鼠小跳持續添加動作！360度旋轉！720度翻轉！單手倒立運球！袋鼠後腿瘋狂動作！球開始不聽話，發光震動",
+      "camera_angle": "surreal montage, spiral effect",
+      "composition": "快鏡頭動作，動作計數器快速跳到100，袋鼠耳朵興奮豎起，球開始發光震動，畫面出現數字100閃爍",
+      "mood": "瘋狂、混亂、失控邊緣",
+      "key_elements": [
+        "多個袋鼠動作重疊",
+        "動作計數器100",
+        "球發光震動",
+        "袋鼠耳朵豎起",
+        "數字100閃爍",
+        "混亂背景"
+      ],
+      "nano_banana_prompt": "Chaotic montage of Kangaroo Xiaotiao performing insane combo moves, multiple action poses overlapping, action counter rapidly jumping to 100 in neon numbers, basketball glowing and vibrating with energy, kangaroo ears excitedly perked up, spiral visual effect, number 100 flashing, surreal sports anime style, overwhelming energy, psychedelic colors"
+    },
+    {
+      "scene_number": 5,
+      "phase": "轉",
+      "name": "球飛走了",
+      "duration": 15,
+      "description": "「砰！」動作太複雜！球自己飛走了！飛向太空！袋鼠小跳失去平衡，超級誇張的摔倒！慢動作！尾巴無法保持平衡",
+      "camera_angle": "slow-motion dramatic fall, worm's eye view",
+      "composition": "球飛向太空留下軌跡，袋鼠小跳失去平衡向後倒，尾巴無法保持平衡，超慢動作摔倒，表情驚恐",
+      "mood": "震驚、絕望、戲劇性",
+      "key_elements": [
+        "球飛向太空軌跡",
+        "袋鼠小跳摔倒",
+        "尾巴失去平衡",
+        "驚恐表情",
+        "慢動作效果",
+        "「砰」文字特效"
+      ],
+      "nano_banana_prompt": "Dramatic slow-motion scene, basketball flying away into space leaving glowing trail, Kangaroo Xiaotiao losing balance and falling backward, tail failing to maintain balance, expression of shock and horror, comic-style 'BANG' text effect, space background, worm's eye view, dramatic anime freeze frame, desaturated colors with sharp contrast"
+    },
+    {
+      "scene_number": 6,
+      "phase": "轉",
+      "name": "絕望的逆轉",
+      "duration": 15,
+      "description": "狼群隊撿到球，輕鬆上籃得分！計分板翻轉！袋鼠隊輸了！全場外星動物安靜3秒，然後爆笑！",
+      "camera_angle": "split screen, reaction shot",
+      "composition": "左側狼群隊輕鬆得分，右側袋鼠小跳趴在地上，中間計分板從100翻轉到LOSER，外星動物觀眾嘲笑",
+      "mood": "絕望、恥辱、對比強烈",
+      "key_elements": [
+        "狼群隊得分",
+        "袋鼠小跳趴地",
+        "計分板翻轉LOSER",
+        "外星動物嘲笑",
+        "袋鼠耳朵垂下",
+        "尾巴無力"
+      ],
+      "nano_banana_prompt": "Split screen scene, left side: Wolf team easily scoring basket, right side: Kangaroo Xiaotiao collapsed on floor in despair, center: scoreboard dramatically flipping from 100 to LOSER in red, alien animal audience laughing, kangaroo ears completely flat against head, tail limp, devastating contrast, dark comedic anime style"
+    },
+    {
+      "scene_number": 7,
+      "phase": "轉",
+      "name": "火焰獅子的誕生",
+      "duration": 15,
+      "description": "獅子王教練憤怒到極限！「轟！」鬃毛著火！變成火焰獅子！高達10米！全身燃燒！走向小跳，大地震動！",
+      "camera_angle": "extreme low angle, dramatic reveal",
+      "composition": "獅子教練變身火焰獅子，鬃毛燃燒成火焰，超巨大10米高，周圍燃燒，袋鼠小跳像小老鼠一樣小，大地震動裂開",
+      "mood": "憤怒、恐怖、震撼",
+      "key_elements": [
+        "火焰獅子變身",
+        "鬃毛著火",
+        "10米巨大身軀",
+        "周圍燃燒",
+        "袋鼠小跳縮小",
+        "地面裂開",
+        "「轟」特效"
+      ],
+      "nano_banana_prompt": "Epic transformation scene, Lion coach metamorphosing into Fire Lion, majestic mane blazing with intense flames, towering 10 meters tall, entire body engulfed in fire, ground cracking from power, Kangaroo Xiaotiao tiny like a mouse in comparison, dramatic volcanic explosion effect, 'BOOM' text in flames, intense orange and red color palette, godlike transformation, extreme low angle shot, mythological anime style"
+    },
+    {
+      "scene_number": 8,
+      "phase": "合",
+      "name": "永遠的禁賽",
+      "duration": 15,
+      "description": "袋鼠小跳被宇宙籃球協會永遠禁賽！球衣被撕碎！跪在太空球場，耳朵完全貼平，尾巴無力垂下，背景是嘲笑的外星動物",
+      "camera_angle": "emotional close-up with wide establishing",
+      "composition": "撕碎的球衣飄散，袋鼠小跳崩潰跪地，耳朵完全貼平，尾巴垂下，太空背景，孤獨絕望，教學卡片出現",
+      "mood": "悲傷、教訓、結局",
+      "key_elements": [
+        "撕碎的球衣",
+        "袋鼠小跳跪地",
+        "耳朵貼平",
+        "尾巴垂下",
+        "太空背景",
+        "孤獨絕望",
+        "教學卡片"
+      ],
+      "nano_banana_prompt": "Heartbreaking final scene, Kangaroo Xiaotiao kneeling on space court in despair, torn basketball jersey pieces floating away, ears completely flat against head in shame, tail limp on ground, solitary figure against vast space background, alien audience silhouettes mocking in distance, educational idiom card appearing: '畫蛇添足 - Adding unnecessary things spoils perfection', melancholic anime style, muted blue and grey tones, emotional storytelling moment"
+    }
+  ],
+  "visual_style": {
+    "art_style": "現代少年漫畫風格",
+    "color_palette": ["鮮豔色彩", "太空藍", "火焰橙", "閃電紫"],
+    "special_effects": [
+      "閃電特效",
+      "火焰軌跡",
+      "動作殘影",
+      "慢動作凍結",
+      "戲劇性光線"
+    ],
+    "aspect_ratio": "16:9",
+    "resolution": "4K"
+  },
+  "production_notes": {
+    "character_consistency": "確保袋鼠小跳在所有場景中保持一致的外觀：棕色毛皮、籃球背心、強壯後腿、胸前口袋",
+    "emotional_arc": "驕傲自信 → 瘋狂炫技 → 震驚失控 → 絕望恥辱",
+    "key_transformation": "場景7的火焰獅子變身是高潮點，需要特別誇張的效果",
+    "moral_message": "場景8結尾的教學卡片要清晰傳達「畫蛇添足」的寓意"
+  }
+}

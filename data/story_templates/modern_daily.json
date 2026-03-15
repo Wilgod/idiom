@@ -1,0 +1,63 @@
+{
+  "template_id": "modern_daily",
+  "name": "現代日常生活",
+  "name_en": "Modern Daily Life",
+  "description": "發生在現代日常生活中的故事，適合校園和家庭場景",
+  "structure": {
+    "起": {
+      "phase": "introduction",
+      "name": "起始",
+      "description": "介紹主角和背景，建立故事情境",
+      "duration_seconds": 15,
+      "scene_count": 2,
+      "focus": ["角色介紹", "時間地點", "情境設定"],
+      "tone": "輕鬆活潑"
+    },
+    "承": {
+      "phase": "development",
+      "name": "發展",
+      "description": "主角遇到問題或情況，故事發展",
+      "duration_seconds": 20,
+      "scene_count": 3,
+      "focus": ["衝突出現", "情況變化", "角色反應"],
+      "tone": "緊張有趣"
+    },
+    "轉": {
+      "phase": "turn",
+      "name": "轉折",
+      "description": "成語應用的關鍵時刻，故事高潮",
+      "duration_seconds": 25,
+      "scene_count": 3,
+      "focus": ["高潮時刻", "成語展現", "問題解決的關鍵"],
+      "tone": "緊張懸念"
+    },
+    "合": {
+      "phase": "conclusion",
+      "name": "結尾",
+      "description": "問題解決，主角學到教訓，故事結尾",
+      "duration_seconds": 20,
+      "scene_count": 2,
+      "focus": ["問題解決", "教訓總結", "成語解釋"],
+      "tone": "溫馨收尾"
+    }
+  },
+  "settings": {
+    "total_duration_seconds": 80,
+    "total_scene_count": 10,
+    "avg_scene_duration": 8,
+    "transition_duration": 1.0,
+    "subtitle_duration_per_scene": 4
+  },
+  "visual_style": {
+    "animation_style": "現代2D動畫",
+    "color_palette": "明亮飽和，適合兒童",
+    "character_size": "半身像為主，適時全身像",
+    "background_style": "現代化場景，家庭/學校/戶外"
+  },
+  "audio_style": {
+    "bgm": "輕快活潑的背景音樂",
+    "sound_effects": "自然環境音效",
+    "voice_over": "可選的旁白配音"
+  },
+  "tags": ["現代", "日常生活", "校園", "家庭", "輕鬆"]
+}

@@ -1,0 +1,580 @@
+{
+  "story_title": "宇宙袋鼠籃球災難",
+  "story_id": "畫蛇添足_v4_動物版",
+  "total_scenes": 8,
+  "characters": {
+    "protagonist": {
+      "name": "袋鼠小跳",
+      "animal": "袋鼠",
+      "appearance": "棕色毛皮，巨大強壯後腿，胸前口袋，身穿籃球背心，尖耳會隨興奮度豎起，粗壯尾巴保持平衡",
+      "role": "得分後衛/球隊明星",
+      "personality": "驕傲自信、愛炫技、過度自信"
+    },
+    "supporting_coach": {
+      "name": "獅子王教練",
+      "animal": "獅子",
+      "appearance": "金色鬃毛，威嚴面容，戴著口哨，身穿教練服，鬃毛會隨怒氣燃燒",
+      "role": "教練",
+      "personality": "冷靜嚴肅但易怒"
+    },
+    "opponents": {
+      "name": "狼群隊",
+      "animal": "灰狼",
+      "appearance": "灰色毛皮，尖牙利爪，團隊合作無間",
+      "role": "對手球隊",
+      "personality": "狡猾冷靜、善於抓住機會"
+    },
+    "teamates": [
+      {
+        "name": "兔子快斗",
+        "animal": "兔子",
+        "appearance": "白色毛皮，長長兔耳會隨速度豎起，短尾巴，三瓣嘴",
+        "role": "控球後衛",
+        "special_skill": "極速突破、敏捷切入",
+        "jersey_number": 1,
+        "personality": "沉默寡言、眼神銳利"
+      },
+      {
+        "name": "熊大力",
+        "animal": "北極熊",
+        "appearance": "白色毛皮，巨大身軀，厚實熊掌，黑色鼻子",
+        "role": "中鋒",
+        "special_skill": "籃板王、內線防守",
+        "jersey_number": 5,
+        "personality": "老實忠厚、力大無窮"
+      },
+      {
+        "name": "猴子聰明",
+        "animal": "獼猴",
+        "appearance": "棕色短毛，長尾巴，靈活四肢，聪慧眼神",
+        "role": "小前鋒",
+        "special_skill": "高空灌籃、假動作",
+        "jersey_number": 8,
+        "personality": "機靈鬼點子多、愛開玩笑"
+      },
+      {
+        "name": "青蛙跳跳",
+        "animal": "青蛙",
+        "appearance": "綠色皮膚，大眼睛，長舌頭，強壯後腿",
+        "role": "得分後衛",
+        "special_skill": "跳得最高、投籃精準",
+        "jersey_number": 11,
+        "personality": "冷靜沉著、舌頭很快"
+      }
+    ]
+  },
+  "scenes": [
+    {
+      "scene_number": 1,
+      "phase": "起",
+      "name": "宇宙決賽開場",
+      "duration": 12,
+      "description": "太空球場，地球在背景，觀眾是各種外星動物。巨大計分板顯示100比90領先10分！袋鼠小跳是超級明星，帶領兔子快斗、熊大力、猴子聰明、青蛙跳跳四位隊友，挺著胸膛，尾巴驕傲搖擺",
+      "mood": "史詩、興奮、驕傲",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "wide establishing shot",
+          "focus": "太空球場全景",
+          "nano_banana_prompt": "Futuristic space basketball court, planet Earth and stars in background, floating court platform with energy barriers, cosmic nebula colors, sci-fi architecture, epic establishing shot, 4K quality"
+        },
+        {
+          "shot_number": 2,
+          "angle": "team lineup shot",
+          "focus": "袋鼠隊五位球員登場",
+          "nano_banana_prompt": "Kangaroo team lineup entering court, Kangaroo Xiaotiao center with jersey #10, white rabbit player Rabbit Kaito with #1, huge polar bear Bear Dali with #5, clever monkey player Monkey Congming with #8, green frog player Frog Tiaotiao with #11, all wearing matching basketball jerseys, confident team pose, modern anime style"
+        },
+        {
+          "shot_number": 3,
+          "angle": "close-up on scoreboard",
+          "focus": "巨大計分板顯示100比90",
+          "nano_banana_prompt": "Giant holographic scoreboard floating in space showing Kangaroo team 100 vs Wolf team 90 in bright neon numbers, 10-point lead, high-tech display, energy effects, scoreboard dominates the scene, space background, cinematic lighting"
+        },
+        {
+          "shot_number": 4,
+          "angle": "hero shot",
+          "focus": "袋鼠小跳與隊友們",
+          "nano_banana_prompt": "Kangaroo Xiaotiao standing center with teammates behind him, pointing at scoreboard confidently, Rabbit Kaito on left with sharp eyes, Bear Dali huge and steady, Monkey Congming grinning playfully, Frog Tiaotiao calm and focused, team unity, heroic pose, modern anime style"
+        },
+        {
+          "shot_number": 5,
+          "angle": "crowd shot",
+          "focus": "外星動物觀眾歡呼",
+          "nano_banana_prompt": "Alien animal audience in stands cheering, various colorful alien creatures, tentacles and multiple eyes, excited expressions, waving flags, space stadium atmosphere, vibrant colors"
+        },
+        {
+          "shot_number": 6,
+          "angle": "team celebration",
+          "focus": "袋鼠隊團隊慶祝",
+          "nano_banana_prompt": "Kangaroo Xiaotiao center celebrating with arms raised, Rabbit Kaito giving thumbs up, Bear Dali pounding chest proudly, Monkey Congming doing backflip excitedly, Frog Tiaotiao tongue out happy, team victory pose, basketball court, celebratory atmosphere, anime style"
+        },
+        {
+          "shot_number": 7,
+          "angle": "bird's eye view",
+          "focus": "俯瞰整個太空球場",
+          "nano_banana_prompt": "Bird's eye view of space basketball court, Kangaroo team on one side with 5 players, Wolf team on other side, Earth visible below, crowd surrounds the court, geometric court lines, cosmic backdrop, epic scale"
+        },
+        {
+          "shot_number": 8,
+          "angle": "individual hero",
+          "focus": "袋鼠小跳自信表情",
+          "nano_banana_prompt": "Medium close-up of Kangaroo Xiaotiao's face, confident smirk, sharp eyes, pointed ears perked up, brown fur texture, basketball jersey visible, anime style face, confident expression, emotional buildup"
+        },
+        {
+          "shot_number": 9,
+          "angle": "team dynamic shot",
+          "focus": "袋鼠隊團結一致",
+          "nano_banana_prompt": "Dynamic composition with Kangaroo Xiaotiao center, 4 teammates surrounding him in formation, all pointing upward together, scoreboard in background showing 100-90 lead, unity pose, basketball court, epic team moment, modern anime style"
+        }
+      ]
+    },
+    {
+      "scene_number": 2,
+      "phase": "起",
+      "name": "獅子教練的警告",
+      "duration": 12,
+      "description": "獅子王教練叫暫停，鬃毛威嚴飄動，冷靜說「穩住球就贏了，我們領先10分」。袋鼠小跳表面點頭，內心不服。隊友們在旁邊擔心觀望",
+      "mood": "緊張、對立、內心掙扎",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "team huddle",
+          "focus": "獅子教練對全隊說話",
+          "nano_banana_prompt": "Lion coach addressing Kangaroo team in huddle, teammates listening seriously, Rabbit Kaito with sharp focused eyes, Bear Dali nodding seriously, Monkey Congming scratching head, Frog Tiaotiao calm, Kangaroo Xiaotiao trying to look obedient, tense team atmosphere, modern anime style"
+        },
+        {
+          "shot_number": 2,
+          "angle": "over-the-shoulder shot",
+          "focus": "教練對小跳說話",
+          "nano_banana_prompt": "Over-the-shoulder shot, Lion coach talking sternly to Kangaroo Xiaotiao, Xiaotiao visible from behind, teammates watching in background with worried expressions, coach's face serious, calm gesture, basketball court background, tense atmosphere"
+        },
+        {
+          "shot_number": 3,
+          "angle": "medium close-up",
+          "focus": "袋鼠小跳表面點頭",
+          "nano_banana_prompt": "Kangaroo Xiaotiao nodding obediently, polite smile, but eyes darting away, double expression - surface agreement vs inner rebellion, subtle facial details, anime style"
+        },
+        {
+          "shot_number": 4,
+          "angle": "teammates reaction",
+          "focus": "隊友們擔心的表情",
+          "nano_banana_prompt": "Kangaroo team teammates looking worried, Rabbit Kaito frowning with concern, Bear Dali scratching head confused, Monkey Congming whispering to Frog Tiaotiao, Frog Tiaotiao's big eyes worried, group reaction shot, anime style"
+        },
+        {
+          "shot_number": 5,
+          "angle": "thought bubble visualization",
+          "focus": "惡魔袋鼠內心獨白",
+          "nano_banana_prompt": "Thought bubble above Kangaroo Xiaotiao showing small demon kangaroo version, red eyes, mischievous grin, encouraging rebellion, visual metaphor, inner conflict representation"
+        },
+        {
+          "shot_number": 6,
+          "angle": "close-up on coach's mane",
+          "focus": "鬃毛飄動細節",
+          "nano_banana_prompt": "Close-up of Lion coach's golden mane flowing majestically, hair strands visible, warm backlighting, majestic and authoritative, detailed fur texture, cinematic quality"
+        },
+        {
+          "shot_number": 7,
+          "angle": "medium shot",
+          "focus": "小跳眼神飄忽",
+          "nano_banana_prompt": "Kangaroo Xiaotiao looking away nervously, eyes darting sideways, fake smile, ears slightly back, body language showing disagreement, subtle emotional cues, anime expression"
+        },
+        {
+          "shot_number": 8,
+          "angle": "team worried",
+          "focus": "兔子快斗和熊大力交換眼神",
+          "nano_banana_prompt": "Rabbit Kaito and Bear Dali exchanging worried glances, Rabbit's long ears flat with concern, Bear's massive face showing unease, teammates sensing trouble, unspoken communication, basketball court background"
+        },
+        {
+          "shot_number": 9,
+          "angle": "dramatic composition",
+          "focus": "師徒對立與隊友擔憂",
+          "nano_banana_prompt": "Dramatic composition, Lion coach on left stern, Kangaroo Xiaotiao on right with hidden rebellion, teammates in background with concerned expressions, split lighting, tension crackling, space court background, anime dramatic scene"
+        }
+      ]
+    },
+    {
+      "scene_number": 3,
+      "phase": "承",
+      "name": "究極絕招啟動",
+      "duration": 14,
+      "description": "袋鼠小跳拿到球，大喊「究極百連招！」開始瘋狂運球！後撤步！轉身！胯下！背後！袋鼠跳躍！動作產生閃電環繞",
+      "mood": "熱血、誇張、炫技",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "medium shot",
+          "focus": "袋鼠小跳接到球，隊友散開",
+          "nano_banana_prompt": "Kangaroo Xiaotiao receiving basketball from Rabbit Kaito, teammates spreading out on court, Bear Dali moving to post position, Monkey Congming running to wing, Frog Tiaotiao spotting up, team offensive formation, shounen anime style"
+        },
+        {
+          "shot_number": 2,
+          "angle": "dynamic action shot",
+          "focus": "大喊究極百連招",
+          "nano_banana_prompt": "Kangaroo Xiaotiao shouting with intense expression, mouth open yelling, eyes blazing with determination, dramatic energy lines, teammates visible in background surprised by shout, anime power-up moment, dynamic angle"
+        },
+        {
+          "shot_number": 3,
+          "angle": "low angle action",
+          "focus": "瘋狂運球動作，隊友觀望",
+          "nano_banana_prompt": "Kangaroo Xiaotiao dribbling basketball at incredible speed, motion blur, tail spinning for balance, teammates watching from corners with amazed expressions, Rabbit Kaito sharp eyes tracking, powerful stance, low angle dramatic shot, athletic prowess, energy effects"
+        },
+        {
+          "shot_number": 4,
+          "angle": "side view action",
+          "focus": "後撤步動作，熊大力擔心",
+          "nano_banana_prompt": "Kangaroo Xiaotiao performing step-back move, hind legs pushing off powerfully, body leaning back, basketball in motion, Bear Dali visible in background with concerned expression, action freeze frame, sports anime style"
+        },
+        {
+          "shot_number": 5,
+          "angle": "dynamic rotation",
+          "focus": "轉身動作，猴子聰明驚訝",
+          "nano_banana_prompt": "Kangaroo Xiaotiao spinning with basketball, 360-degree rotation, tail whipping around, fur flowing, Monkey Congming in background with jaw dropped amazed, centrifugal force, dynamic action pose, motion lines"
+        },
+        {
+          "shot_number": 6,
+          "angle": "close-up action",
+          "focus": "胯下運球，青蛙跳跳觀察",
+          "nano_banana_prompt": "Close-up of Kangaroo Xiaotiao performing between-the-legs dribble, basketball passing under muscular hind legs, skill and precision, Frog Tiaotiao's big eyes watching closely in background, focused expression, technical move"
+        },
+        {
+          "shot_number": 7,
+          "angle": "behind-the-back view",
+          "focus": "背後運球，隊友跟不上節奏",
+          "nano_banana_prompt": "Kangaroo Xiaotiao doing behind-the-back dribble, basketball passing behind back, tail visible, smooth motion, Rabbit Kaito and Monkey Congming in background trying to keep up with movement pattern, street basketball style, cool factor"
+        },
+        {
+          "shot_number": 8,
+          "angle": "explosive jump shot",
+          "focus": "袋鼠跳躍絕技，全隊抬頭仰望",
+          "nano_banana_prompt": "Kangaroo Xiaotiao jumping incredibly high with powerful hind legs, basketball held high, soaring through air, all 4 teammates looking up in amazement from below, space background visible, epic leap, maximum vertical, teammates' upturned faces"
+        },
+        {
+          "shot_number": 9,
+          "angle": "ultimate combo shot",
+          "focus": "閃電環繞的究極連招，隊友震驚",
+          "nano_banana_prompt": "Kangaroo Xiaotiao performing ultimate combo move, lightning effects surrounding body, flame trails, action blur and afterimages, electric blue and orange energy, teammates at edges of frame with shocked and worried expressions, overwhelming power, shounen anime climax"
+        }
+      ]
+    },
+    {
+      "scene_number": 4,
+      "phase": "承",
+      "name": "100連招的瘋狂",
+      "duration": 12,
+      "description": "袋鼠小跳持續添加動作！360度旋轉！720度翻轉！單手倒立運球！袋鼠後腿瘋狂動作！球開始不聽話，發光震動",
+      "mood": "瘋狂、混亂、失控邊緣",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "spiral montage",
+          "focus": "360度瘋狂旋轉，隊友眼花撩亂",
+          "nano_banana_prompt": "Kangaroo Xiaotiao spinning 360 degrees rapidly, multiple poses overlapping, spiral visual effect, teammates Rabbit Kaito and Bear Dali looking dizzy trying to follow, dizziness implied, colorful motion trails, surreal sports anime style"
+        },
+        {
+          "shot_number": 2,
+          "angle": "dynamic flip",
+          "focus": "720度翻轉，猴子聰明驚呆",
+          "nano_banana_prompt": "Kangaroo Xiaotiao flipping 720 degrees in air, impossible acrobatic move, tail spinning, basketball trailing behind, Monkey Congming with jaw dropped and eyes popping out, physics-defying action, extreme sports moment"
+        },
+        {
+          "shot_number": 3,
+          "angle": "handstand action",
+          "focus": "單手倒立運球，全隊驚恐",
+          "nano_banana_prompt": "Kangaroo Xiaotiao doing one-handed handstand while dribbling with other hand, incredible balance, tail pointing up, all teammates visible with shocked/scared expressions, amazed audience in background, show-off moment getting dangerous"
+        },
+        {
+          "shot_number": 4,
+          "angle": "close-up on hind legs",
+          "focus": "袋鼠後腿瘋狂動作",
+          "nano_banana_prompt": "Close-up of Kangaroo Xiaotiao's powerful hind legs in rapid motion, muscles tensed, fur rippling, multiple leg positions overlapping, speed lines, raw power display"
+        },
+        {
+          "shot_number": 5,
+          "angle": "close-up on basketball",
+          "focus": "球開始發光震動",
+          "nano_banana_prompt": "Basketball glowing with unstable energy, vibrating intensely, electric sparks, cracks appearing, ball developing consciousness, Frog Tiaotiao's big eyes watching ball with worry, warning signs, supernatural effects"
+        },
+        {
+          "shot_number": 6,
+          "angle": "reaction shot",
+          "focus": "袋鼠耳朵興奮豎起",
+          "nano_banana_prompt": "Kangaroo Xiaotiao with ears perked up excitedly, crazy expression, eyes wide, manic smile, enjoying the chaos, adrenaline rush, anime excitement"
+        },
+        {
+          "shot_number": 7,
+          "angle": "action counter",
+          "focus": "計數器快速跳到100，隊友恐慌",
+          "nano_banana_prompt": "Digital action counter rapidly counting up, numbers flying: 90...95...100 in neon display, teammates Bear Dali and Monkey Congming exchanging panicked looks in background, speed lines, overwhelming information, digital interface, visual chaos"
+        },
+        {
+          "shot_number": 8,
+          "angle": "montage composition",
+          "focus": "多個動作重疊，隊友混亂",
+          "nano_banana_prompt": "Chaotic montage of multiple Kangaroo Xiaotiao poses overlapping, different moves visible simultaneously, action blur, psychedelic colors, teammates at edges looking completely lost and confused, overwhelming visual, maximum chaos"
+        },
+        {
+          "shot_number": 9,
+          "angle": "climax shot",
+          "focus": "100連招完成閃光，全隊驚恐",
+          "nano_banana_prompt": "Number 100 flashing in giant neon, Kangaroo Xiaotiao surrounded by energy explosion, blinding light, ball glowing dangerously, everything vibrating, all 4 teammates in background covering eyes in terror, peak of insanity, psychedelic anime climax"
+        }
+      ]
+    },
+    {
+      "scene_number": 5,
+      "phase": "轉",
+      "name": "球飛走了",
+      "duration": 15,
+      "description": "「砰！」動作太複雜！球自己飛走了！飛向太空！袋鼠小跳失去平衡，超級誇張的摔倒！慢動作！尾巴無法保持平衡",
+      "mood": "震驚、絕望、戲劇性",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "explosion frame",
+          "focus": "「砰！」文字特效，隊友驚恐",
+          "nano_banana_prompt": "Comic-style 'BANG' explosion text effect, giant red letters, impact lines radiating outward, all 4 teammates visible at edges with terrified expressions, dramatic freeze frame, manga sound effect, explosive moment"
+        },
+        {
+          "shot_number": 2,
+          "angle": "ball trajectory",
+          "focus": "球飛向太空軌跡",
+          "nano_banana_prompt": "Basketball flying away into space leaving glowing orange trail, ball shrinking into distance, stars visible, space background, tragic trajectory, cinematic"
+        },
+        {
+          "shot_number": 3,
+          "angle": "shocked expression",
+          "focus": "袋鼠小跳震驚表情",
+          "nano_banana_prompt": "Kangaroo Xiaotiao's shocked face, jaw dropped, eyes wide in horror, ears straight up in alarm, realization of failure, extreme expression, anime shock"
+        },
+        {
+          "shot_number": 4,
+          "angle": "losing balance",
+          "focus": "失去平衡瞬間，隊友伸手",
+          "nano_banana_prompt": "Kangaroo Xiaotiao losing balance, body tilting backward, arms flailing, tail failing to stabilize, Rabbit Kaito and Monkey Congming reaching out helplessly from background, center of gravity lost, slow-motion fall beginning"
+        },
+        {
+          "shot_number": 5,
+          "angle": "tail malfunction",
+          "focus": "尾巴無法保持平衡",
+          "nano_banana_prompt": "Close-up of Kangaroo Xiaotiao's tail thrashing wildly, unable to maintain balance, tail wrapped around itself, physics failing, desperate attempt to recover"
+        },
+        {
+          "shot_number": 6,
+          "angle": "slow-motion fall",
+          "focus": "超級誇張摔倒慢動作，隊友絕望",
+          "nano_banana_prompt": "Kangaroo Xiaotiao falling backward in ultra slow-motion, dramatic pose, body horizontal in mid-air, time frozen, all teammates in background with hands on heads in despair, epic fall, desaturated colors, dramatic impact"
+        },
+        {
+          "shot_number": 7,
+          "angle": "worm's eye view",
+          "focus": "仰視摔倒過程",
+          "nano_banana_prompt": "Worm's eye view of Kangaroo Xiaotiao falling toward camera, body silhouetted against space, dramatic lighting, slow-motion, impending impact"
+        },
+        {
+          "shot_number": 8,
+          "angle": "crowd reaction",
+          "focus": "觀眾和隊友震驚表情",
+          "nano_banana_prompt": "Alien animal audience AND Kangaroo teammates in collective shock, jaws dropped, eyes wide, silent moment, frozen expressions, Rabbit Kaito's ears flat, Bear Dali hands on cheeks, dramatic pause before chaos, group reaction shot"
+        },
+        {
+          "shot_number": 9,
+          "angle": "epic disaster frame",
+          "focus": "球飛走+小跳摔倒+隊友絕望全景",
+          "nano_banana_prompt": "Epic disaster composition, basketball flying into space on left, Kangaroo Xiaotiao falling in slow-motion center, all 4 teammates watching in horror with expressive body language, shocked crowd background, space court, dramatic tragedy, cinematic storytelling"
+        }
+      ]
+    },
+    {
+      "scene_number": 6,
+      "phase": "轉",
+      "name": "絕望的逆轉",
+      "duration": 15,
+      "description": "狼群隊撿到球，輕鬆上籃得分！計分板變成100比93！雖然袋鼠隊還領先7分，但裁判判罰小跳技術犯規！狼隊獲得罰球機會連得8分！最終比分100比101，袋鼠隊輸了1分！全場外星動物安靜3秒，然後爆笑！",
+      "mood": "絕望、恥辱、對比強烈",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "wolf team action",
+          "focus": "狼群隊撿到球，袋鼠隊來不及反應",
+          "nano_banana_prompt": "Wolf team player picking up loose basketball, gray fur, sharp teeth, Kangaroo teammates too slow to react, Rabbit Kaito and Bear Dali scrambling but too late, determined expression, teamwork moment, athletic move, opportunity seized"
+        },
+        {
+          "shot_number": 2,
+          "angle": "easy basket",
+          "focus": "輕鬆上籃得分",
+          "nano_banana_prompt": "Wolf player easily scoring layup, no defense, simple shot, basketball going through hoop, effortless point, contrasting with Xiaotiao's failed complexity"
+        },
+        {
+          "shot_number": 3,
+          "angle": "scoreboard flip",
+          "focus": "計分板顯示100比101逆轉",
+          "nano_banana_prompt": "Scoreboard dramatically showing final score Kangaroo 100 - Wolf 101 in big red letters, Wolf team winning by 1 point, digital animation effect, devastating one-point loss, mocking display, brutal transition"
+        },
+        {
+          "shot_number": 4,
+          "angle": "team collapsed",
+          "focus": "袋鼠隊全員崩潰",
+          "nano_banana_prompt": "Entire Kangaroo team in despair, Kangaroo Xiaotiao collapsed face-down center, teammates Rabbit Kaito kneeling with head down, Bear Dali slumped shoulders, Monkey Congming hands on head, Frog Tiaotiao eyes closed, team total defeat posture, shame and despair, tragic group"
+        },
+        {
+          "shot_number": 5,
+          "angle": "ears flat",
+          "focus": "全隊耳朵貼平",
+          "nano_banana_prompt": "Close-up shot of multiple Kangaroo team members with ears flat - Xiaotiao's kangaroo ears down, Rabbit Kaito's long rabbit ears flat, Frog Tiaotiao's frog features sad, defeated body language in shame, emotional detail"
+        },
+        {
+          "shot_number": 6,
+          "angle": "tail limp",
+          "focus": "小跳和兔子快斗尾巴無力",
+          "nano_banana_prompt": "Close-up of Kangaroo Xiaotiao's tail lying limp on ground beside Rabbit Kaito's drooped rabbit tail, both showing no energy, defeated tails, contrast to earlier proud wagging, symbolic double defeat"
+        },
+        {
+          "shot_number": 7,
+          "angle": "silence moment",
+          "focus": "全場安靜3秒",
+          "nano_banana_prompt": "Entire space stadium in complete silence, frozen moment, alien audience shocked still, Kangaroo team frozen in despair positions, time stopped, dramatic pause, visual silence, atmospheric shot"
+        },
+        {
+          "shot_number": 8,
+          "angle": "laughter explosion",
+          "focus": "外星動物爆笑",
+          "nano_banana_prompt": "Alien animal audience erupting in laughter, pointing at court, mocking expressions, tears of laughter, cruel humor, devastating crowd reaction"
+        },
+        {
+          "shot_number": 9,
+          "angle": "split screen tragedy",
+          "focus": "狼群慶祝1分險勝vs袋鼠隊絕望",
+          "nano_banana_prompt": "Split screen composition, left: Wolf team celebrating 101-100 victory together, right: Entire Kangaroo team collapsed in despair after losing by 1 point - Xiaotiao center, teammates around him defeated, center: scoreboard showing 100-101 final score, devastating contrast, dark comedic anime style"
+        }
+      ]
+    },
+    {
+      "scene_number": 7,
+      "phase": "轉",
+      "name": "火焰獅子的誕生",
+      "duration": 15,
+      "description": "獅子王教練憤怒到極限！「轟！」鬃毛著火！變成火焰獅子！高達10米！全身燃燒！走向小跳，大地震動！",
+      "mood": "憤怒、恐怖、震撼",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "anger buildup",
+          "focus": "獅子教練憤怒表情，全隊恐懼",
+          "nano_banana_prompt": "Lion coach face showing extreme anger, veins visible, eyes blazing, mane starting to smoke, rage building, all 4 teammates visible in background with terrified expressions, Rabbit Kaito hiding behind Bear Dali, intense emotion, anime anger"
+        },
+        {
+          "shot_number": 2,
+          "angle": "transformation start",
+          "focus": "鬃毛開始著火，隊友驚恐後退",
+          "nano_banana_prompt": "Lion coach's golden mane catching fire, flames spreading from roots, magical fire, intense orange glow, teammates backing away in fear - Monkey Congming and Frog Tiaotiao retreating, transformation beginning, supernatural event"
+        },
+        {
+          "shot_number": 3,
+          "angle": "explosion effect",
+          "focus": "「轟！」爆炸特效，隊友被震退",
+          "nano_banana_prompt": "Giant 'BOOM' text in flames, volcanic explosion effect, fire and smoke, all 4 teammates knocked backward by shockwave, dramatic transformation trigger, impact frame, mythological power"
+        },
+        {
+          "shot_number": 4,
+          "angle": "full transformation",
+          "focus": "變身火焰獅子",
+          "nano_banana_prompt": "Lion coach metamorphosing into Fire Lion, entire body engulfed in flames, godlike transformation, elemental power, mythical creature, epic anime transformation"
+        },
+        {
+          "shot_number": 5,
+          "angle": "extreme low angle",
+          "focus": "10米巨大火焰獅子，隊友渺小",
+          "nano_banana_prompt": "Fire Lion towering 10 meters tall, extreme low angle shot, massive scale, blocking out light, all 4 teammates visible as tiny terrified figures at the base, intimidating presence, giant monster, mythological beast"
+        },
+        {
+          "shot_number": 6,
+          "angle": "fire details",
+          "focus": "全身燃燒細節",
+          "nano_banana_prompt": "Close-up of Fire Lion's body covered in intense flames, fire texture, heat distortion, molten appearance, elemental transformation detail, realistic fire"
+        },
+        {
+          "shot_number": 7,
+          "angle": "size comparison",
+          "focus": "小跳和隊友變得像老鼠一樣小",
+          "nano_banana_prompt": "Kangaroo Xiaotiao and all 4 teammates tiny like mice at Fire Lion's feet, dramatic size contrast, David vs Goliath scale, intimidation factor, perspective shot showing entire cowering team"
+        },
+        {
+          "shot_number": 8,
+          "angle": "ground destruction",
+          "focus": "大地震動裂開，隊友站立不穩",
+          "nano_banana_prompt": "Space court ground cracking and breaking apart from Fire Lion's power, fissures spreading, debris floating, all teammates losing balance and falling from earthquake, structural damage, overwhelming force"
+        },
+        {
+          "shot_number": 9,
+          "angle": "dramatic reveal",
+          "focus": "火焰獅子走向袋鼠隊",
+          "nano_banana_prompt": "Fire Lion walking toward tiny Kangaroo Xiaotiao and his terrified teammates huddled together, flames trailing, each step shaking ground, intimidating approach to entire team, mythological judgment, epic confrontation, orange and red color palette"
+        }
+      ]
+    },
+    {
+      "scene_number": 8,
+      "phase": "合",
+      "name": "永遠的禁賽",
+      "duration": 15,
+      "description": "袋鼠小跳被宇宙籃球協會永遠禁賽！球衣被撕碎！跪在太空球場，耳朵完全貼平，尾巴無力垂下，背景是嘲笑的外星動物",
+      "mood": "悲傷、教訓、結局",
+      "sub_shots": [
+        {
+          "shot_number": 1,
+          "angle": "official announcement",
+          "focus": "宇宙籃球協會公告，隊友震驚",
+          "nano_banana_prompt": "Official holographic announcement: 'BANNED FOR LIFE', official seal, space basketball association logo, all 4 teammates visible in foreground with shocked/sad expressions, formal text, legal document style, digital display"
+        },
+        {
+          "shot_number": 2,
+          "angle": "jersey destruction",
+          "focus": "球衣被撕碎，隊友不忍直視",
+          "nano_banana_prompt": "Kangaroo Xiaotiao's basketball jersey being torn apart, fabric ripping, pieces floating away, Rabbit Kaito and Bear Dali looking away with pained expressions, symbolic destruction, tragic moment, slow-motion tear"
+        },
+        {
+          "shot_number": 3,
+          "angle": "kneeling in despair",
+          "focus": "袋鼠小跳跪地，隊友在旁",
+          "nano_banana_prompt": "Kangaroo Xiaotiao kneeling on space court, head bowed, body language showing complete defeat, teammates standing nearby with sad helpless expressions - Monkey Congming head down, Frog Tiaotiao eyes closed, tragic pose, emotional low point, melancholic scene"
+        },
+        {
+          "shot_number": 4,
+          "angle": "shame details",
+          "focus": "耳朵完全貼平尾巴下垂，全隊悲傷",
+          "nano_banana_prompt": "Close-up of Kangaroo Xiaotiao with ears completely flat and tail limp on ground, maximum shame posture, teammates' sad faces visible in soft focus background, defeated animal body language, emotional detail"
+        },
+        {
+          "shot_number": 5,
+          "angle": "tears moment",
+          "focus": "隊友流淚不捨",
+          "nano_banana_prompt": "Kangaroo teammates crying - Rabbit Kaito wiping tears with long ears, Bear Dali openly crying, Monkey Congming sniffling, Frog Tiaotiao big watery eyes, sad team moment, regret and shared shame, emotional breakdown, poignant moment"
+        },
+        {
+          "shot_number": 6,
+          "angle": "space background",
+          "focus": "孤獨的太空背景，隊友遠離",
+          "nano_banana_prompt": "Kangaroo Xiaotiao's silhouette against vast space background, Earth visible in distance, teammates standing apart from him creating emotional distance, lonely figure, cosmic isolation, melancholic vastness"
+        },
+        {
+          "shot_number": 7,
+          "angle": "mocking crowd",
+          "focus": "外星動物嘲笑",
+          "nano_banana_prompt": "Alien animal silhouettes in distance pointing and laughing, cruel mockery, audience as antagonists, dark shadows, emotional isolation"
+        },
+        {
+          "shot_number": 8,
+          "angle": "idiom card",
+          "focus": "成語教學卡片",
+          "nano_banana_prompt": "Educational idiom card appearing, Chinese text '畫蛇添足', English translation 'Adding unnecessary things spoils perfection', moral lesson, clean design, teaching moment"
+        },
+        {
+          "shot_number": 9,
+          "angle": "final composition",
+          "focus": "悲劇結局全景，隊友離去",
+          "nano_banana_prompt": "Heartbreaking final composition, Kangaroo Xiaotiao kneeling center with torn jersey, ears flat, tail limp, teammates walking away in different directions leaving him alone, space background, distant mocking crowd, idiom card overlay, muted blue and grey tones, emotional storytelling conclusion"
+        }
+      ]
+    }
+  ]
+}

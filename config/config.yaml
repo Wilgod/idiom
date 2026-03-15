@@ -1,0 +1,63 @@
+# 成語動畫故事生成系統配置文件
+
+# 項目路徑
+paths:
+  project_root: .
+  output_dir: ./output
+  images_dir: ./output/images
+  videos_dir: ./output/videos
+  temp_dir: ./output/temp
+  data_dir: ./data
+
+# Gemini API 配置
+gemini:
+  api_key_env: GEMINI_API_KEY
+  model: gemini-2.0-flash-exp
+  image_model: imagen-3.0-generate-002
+  timeout: 120
+  max_retries: 3
+  temperature: 0.7
+  top_p: 0.9
+  top_k: 40
+
+# 視頻生成配置
+video:
+  fps: 30
+  codec: libx264
+  resolution: [1280, 720]
+  bitrate: 5000k
+  audio: true
+  transition_duration: 1.0
+  default_scene_duration: 8
+  fade_in: 0.5
+  fade_out: 0.5
+
+# 圖片生成配置
+image:
+  size: [1024, 1024]
+  format: png
+  quality: 95
+
+# 故事配置
+story:
+  default_idiom: idiom_001
+  default_template: modern_daily
+  total_duration: 80
+  subtitle:
+    font: Microsoft JhengHei
+    font_size: 36
+    color: "#FFFFFF"
+    stroke_color: "#000000"
+    stroke_width: 2
+  idiom_card:
+    font: Microsoft JhengHei
+    font_size: 72
+    color: "#FFD700"
+    bg_color: "#1a1a2e"
+
+# 日誌配置
+logging:
+  level: INFO
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: ./output/app.log
+  console: true

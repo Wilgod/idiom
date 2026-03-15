@@ -1,0 +1,104 @@
+{
+  "idiom": "畫蛇添足",
+  "version": 1,
+  "title": "小明 VS 畫畫大魔王",
+  "setting": "全國超級無敵美術大賽現場",
+  "characters": [
+    "小明(天才畫家)",
+    "評審長(超嚴格)",
+    "觀眾(萬人)"
+  ],
+  "duration_seconds": 90,
+  "style": "少年熱血漫畫風",
+  "outline": "全國美術大賽決賽！小明畫出一條超級完美的蛇...",
+  "scenes": [
+    {
+      "scene": 1,
+      "phase": "起",
+      "description": "體育館內燈光聚焦，小明站在畫布前，背後是萬人觀眾",
+      "duration": 12,
+      "exaggerated_effects": [
+        "金光閃閃的開場",
+        "背景星光璀璨",
+        "角色登場特效"
+      ]
+    },
+    {
+      "scene": 2,
+      "phase": "起",
+      "description": "開始作畫！小明的畫筆快到產生殘影",
+      "duration": 12,
+      "exaggerated_effects": [
+        "金光閃閃的開場",
+        "背景星光璀璨",
+        "角色登場特效"
+      ]
+    },
+    {
+      "scene": 3,
+      "phase": "承",
+      "description": "完成！觀眾驚呆，評審準備給滿分",
+      "duration": 10,
+      "exaggerated_effects": [
+        "火焰燃燒的氣勢",
+        "閃電環繞的效果",
+        "能量爆發的視覺"
+      ]
+    },
+    {
+      "scene": 4,
+      "phase": "承",
+      "description": "突然！小明內心獨白「還可以更完美！」",
+      "duration": 10,
+      "exaggerated_effects": [
+        "火焰燃燒的氣勢",
+        "閃電環繞的效果",
+        "能量爆發的視覺"
+      ]
+    },
+    {
+      "scene": 5,
+      "phase": "轉",
+      "description": "倒數10秒！小明瘋狂畫上四隻火焰腳",
+      "duration": 10,
+      "exaggerated_effects": [
+        "超級爆炸場面",
+        "極度震驚表情",
+        "天崩地裂特效"
+      ]
+    },
+    {
+      "scene": 6,
+      "phase": "轉",
+      "description": "時間到！全場安靜3秒...評審下巴掉落",
+      "duration": 12,
+      "exaggerated_effects": [
+        "超級爆炸場面",
+        "極度震驚表情",
+        "天崩地裂特效"
+      ]
+    },
+    {
+      "scene": 7,
+      "phase": "轉",
+      "description": "評審大喊「蛇沒有腳！」小明石化崩潰",
+      "duration": 12,
+      "exaggerated_effects": [
+        "超級爆炸場面",
+        "極度震驚表情",
+        "天崩地裂特效"
+      ]
+    },
+    {
+      "scene": 8,
+      "phase": "合",
+      "description": "成語教學卡片出現",
+      "duration": 12,
+      "exaggerated_effects": [
+        "教學卡片特效",
+        "總結光芒效果",
+        "學習完成標誌"
+      ]
+    }
+  ]
+}
