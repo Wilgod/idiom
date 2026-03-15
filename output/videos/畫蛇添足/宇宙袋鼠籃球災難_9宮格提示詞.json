@@ -71,15 +71,17 @@
       "duration": 12,
       "description": "太空球場，地球在背景，觀眾是各種外星動物。巨大計分板顯示100比90領先10分！袋鼠小跳是超級明星，帶領兔子快斗、熊大力、猴子聰明、青蛙跳跳四位隊友，挺著胸膛，尾巴驕傲搖擺",
       "mood": "史詩、興奮、驕傲",
-      "dialogue": {
-        "narrator": "宇宙動物籃球總決賽現場！袋鼠隊正以100比90領先狼群隊！",
-        "kangaroo_xiaotiao": "哈哈！我們贏定了！再進一球就結束比賽！",
-        "rabbit_kaito": "小跳，穩住，時間還有。",
-        "bear_dali": "我會守住籃板，放心！",
-        "monkey_congming": "太酷了！我們要拿冠軍了！",
-        "frog_tiaotiao": "冷靜，比賽還沒結束。",
-        "crowd": "袋鼠隊！袋鼠隊！宇宙最強！"
-      },
+      "dialogue": [
+        {"shot": 1, "character": "narrator", "line": "宇宙動物籃球總決賽現場！袋鼠隊正以100比90領先狼群隊！"},
+        {"shot": 2, "character": "kangaroo_xiaotiao", "line": "哈哈！我們贏定了！再進一球就結束比賽！"},
+        {"shot": 3, "character": "crowd", "line": "袋鼠隊！袋鼠隊！宇宙最強！"},
+        {"shot": 4, "character": "rabbit_kaito", "line": "小跳，穩住，時間還有。"},
+        {"shot": 5, "character": "bear_dali", "line": "我會守住籃板，放心！"},
+        {"shot": 6, "character": "monkey_congming", "line": "太酷了！我們要拿冠軍了！"},
+        {"shot": 7, "character": "narrator", "line": "袋鼠隊距離勝利只差最後一攻！"},
+        {"shot": 8, "character": "kangaroo_xiaotiao", "line": "(自信笑容) 交給我吧！"},
+        {"shot": 9, "character": "frog_tiaotiao", "line": "冷靜，比賽還沒結束。大家保持專注！"}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
@@ -144,15 +146,17 @@
       "duration": 12,
       "description": "獅子王教練叫暫停，鬃毛威嚴飄動，冷靜說「穩住球就贏了，我們領先10分」。袋鼠小跳表面點頭，內心不服。隊友們在旁邊擔心觀望",
       "mood": "緊張、對立、內心掙扎",
-      "dialogue": {
-        "lion_coach": "小跳，聽著！我們領先10分，穩住球就贏了！不要做多餘的動作！",
-        "kangaroo_xiaotiao": "是...是的教練...(表面順從)",
-        "rabbit_kaito": "(低聲) 小跳，冷靜點。",
-        "bear_dali": "教練說得對，穩住就行。",
-        "monkey_congming": "(小聲對青蛙說) 我覺得小跳不會聽...",
-        "frog_tiaotiao": "(擔心) 我也覺得...",
-        "xiaotiao_inner": "(內心獨白) 哼！穩住？我要讓全宇宙記住我！我要用最強絕招！"
-      },
+      "dialogue": [
+        {"shot": 1, "character": "lion_coach", "line": "大家聽著！我們領先10分，時間不多！穩住球就贏了！"},
+        {"shot": 2, "character": "lion_coach", "line": "小跳，不要做多餘的動作！簡單上籃！"},
+        {"shot": 3, "character": "kangaroo_xiaotiao", "line": "是...是的教練...我知道了..."},
+        {"shot": 4, "character": "monkey_congming", "line": "(小聲對青蛙) 我覺得小跳不會聽..."},
+        {"shot": 5, "character": "xiaotiao_inner", "line": "(內心獨白) 哼！穩住？太無聊了！我要讓全宇宙記住我！"},
+        {"shot": 6, "character": "lion_coach", "line": "記住！畫蛇添足只會搞砸一切！"},
+        {"shot": 7, "character": "kangaroo_xiaotiao", "line": "(眼神飄忽) 教練你放心...我會的..."},
+        {"shot": 8, "character": "rabbit_kaito", "line": "(擔心地) 小跳，真的要聽教練的話..."},
+        {"shot": 9, "character": "bear_dali", "line": "(嘆氣) 我有種不好的預感..."}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
@@ -217,14 +221,17 @@
       "duration": 14,
       "description": "袋鼠小跳拿到球，大喊「究極百連招！」開始瘋狂運球！後撤步！轉身！胯下！背後！袋鼠跳躍！動作產生閃電環繞",
       "mood": "熱血、誇張、炫技",
-      "dialogue": {
-        "kangaroo_xiaotiao": "究極百連招！啟動！讓全宇宙見識我的厲害！",
-        "rabbit_kaito": "什...什麼？！",
-        "bear_dali": "小跳！你在幹什麼？！",
-        "monkey_congming": "哇塞！太誇張了吧！",
-        "frog_tiaotiao": "等等！這招太危險了！",
-        "xiaotiao_action": "後撤步！轉身！胯下！背後！袋鼠跳躍！哈哈哈！"
-      },
+      "dialogue": [
+        {"shot": 1, "character": "narrator", "line": "袋鼠小跳拿到球！最後一攻開始！"},
+        {"shot": 2, "character": "kangaroo_xiaotiao", "line": "究極百連招！啟動！讓全宇宙見識我的厲害！"},
+        {"shot": 3, "character": "rabbit_kaito", "line": "什...什麼？！"},
+        {"shot": 4, "character": "bear_dali", "line": "小跳！你在幹什麼？！"},
+        {"shot": 5, "character": "monkey_congming", "line": "哇塞！太誇張了吧！"},
+        {"shot": 6, "character": "frog_tiaotiao", "line": "等等！這招太危險了！"},
+        {"shot": 7, "character": "narrator", "line": "後撤步！轉身！胯下！背後！"},
+        {"shot": 8, "character": "kangaroo_xiaotiao", "line": "袋鼠跳躍！哈哈哈！"},
+        {"shot": 9, "character": "narrator", "line": "閃電環繞！究極連招！"}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
@@ -289,15 +296,17 @@
       "duration": 12,
       "description": "袋鼠小跳持續添加動作！360度旋轉！720度翻轉！單手倒立運球！袋鼠後腿瘋狂動作！球開始不聽話，發光震動",
       "mood": "瘋狂、混亂、失控邊緣",
-      "dialogue": {
-        "kangaroo_xiaotiao": "還不夠！360度！720度！單手倒立！袋鼠旋風腿！",
-        "rabbit_kaito": "停...停下來！我看不清了！",
-        "bear_dali": "小跳！球！球不對勁！",
-        "monkey_congming": "我的天！那球在發光！",
-        "frog_tiaotiao": "(驚恐) 小跳！快停下！球要失控了！",
-        "xiaotiao_crazy": "哈哈哈！100連招！完成！我才是最強的！",
-        "narrator": "第100招...即將完成..."
-      },
+      "dialogue": [
+        {"shot": 1, "character": "kangaroo_xiaotiao", "line": "還不夠！360度！720度！"},
+        {"shot": 2, "character": "rabbit_kaito", "line": "停...停下來！我看不清了！"},
+        {"shot": 3, "character": "bear_dali", "line": "小跳！球！球不對勁！"},
+        {"shot": 4, "character": "monkey_congming", "line": "我的天！那球在發光！"},
+        {"shot": 5, "character": "frog_tiaotiao", "line": "(驚恐) 小跳！快停下！球要失控了！"},
+        {"shot": 6, "character": "kangaroo_xiaotiao", "line": "單手倒立！袋鼠旋風腿！"},
+        {"shot": 7, "character": "narrator", "line": "動作計數器：90...95...100！"},
+        {"shot": 8, "character": "kangaroo_xiaotiao", "line": "哈哈哈！100連招！完成！我才是最強的！"},
+        {"shot": 9, "character": "narrator", "line": "第100招...即將完成...球開始震動！"}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
@@ -362,15 +371,17 @@
       "duration": 15,
       "description": "「砰！」動作太複雜！球自己飛走了！飛向太空！袋鼠小跳失去平衡，超級誇張的摔倒！慢動作！尾巴無法保持平衡",
       "mood": "震驚、絕望、戲劇性",
-      "dialogue": {
-        "kangaroo_xiaotiao": "(驚恐) 不...不會吧！",
-        "rabbit_kaito": "糟了！",
-        "bear_dali": "球！球飛走了！",
-        "monkey_congming": "我的媽呀！",
-        "frog_tiaotiao": "小跳！小心！",
-        "xiaotiao_falling": "啊啊啊！我的尾巴！停不下來！",
-        "crowd_gasp": "(全場倒吸一口氣)"
-      },
+      "dialogue": [
+        {"shot": 1, "character": "narrator", "line": "「砰！」球飛走了！"},
+        {"shot": 2, "character": "rabbit_kaito", "line": "糟了！球飛向太空！"},
+        {"shot": 3, "character": "kangaroo_xiaotiao", "line": "(驚恐) 不...不會吧！"},
+        {"shot": 4, "character": "bear_dali", "line": "小跳！失去平衡了！"},
+        {"shot": 5, "character": "frog_tiaotiao", "line": "尾巴！尾巴無法平衡！"},
+        {"shot": 6, "character": "monkey_congming", "line": "我的媽呀！"},
+        {"shot": 7, "character": "kangaroo_xiaotiao", "line": "啊啊啊！我的尾巴！停不下來！"},
+        {"shot": 8, "character": "crowd", "line": "(全場倒吸一口氣)"},
+        {"shot": 9, "character": "narrator", "line": "超級誇張的摔倒！慢動作！悲劇時刻！"}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
@@ -435,16 +446,17 @@
       "duration": 15,
       "description": "狼群隊撿到球，輕鬆上籃得分！計分板變成100比93！雖然袋鼠隊還領先7分，但裁判判罰小跳技術犯規！狼隊獲得罰球機會連得8分！最終比分100比101，袋鼠隊輸了1分！全場外星動物安靜3秒，然後爆笑！",
       "mood": "絕望、恥辱、對比強烈",
-      "dialogue": {
-        "wolf_player": "(大笑) 謝謝你的禮物！",
-        "rabbit_kaito": "完了...",
-        "bear_dali": "為什麼...",
-        "monkey_congming": "這不可能...",
-        "frog_tiaotiao": "小跳...你搞砸了...",
-        "kangaroo_xiaotiao": "(絕望) 不...不...",
-        "announcer": "狼群隊得分！等等！裁判判罰技術犯規！狼隊獲得罰球！最終比分101比100！袋鼠隊輸了1分！",
-        "crowd_laugh": "哈哈哈哈！史上最蠢的失誤！"
-      },
+      "dialogue": [
+        {"shot": 1, "character": "wolf_player", "line": "(大笑) 謝謝你的禮物！這球我們拿了！"},
+        {"shot": 2, "character": "narrator", "line": "狼群隊輕鬆上籃得分！100比93！"},
+        {"shot": 3, "character": "announcer", "line": "等等！裁判判罰技術犯規！狼隊獲得罰球機會！"},
+        {"shot": 4, "character": "rabbit_kaito", "line": "完了..."},
+        {"shot": 5, "character": "bear_dali", "line": "為什麼..."},
+        {"shot": 6, "character": "monkey_congming", "line": "這不可能..."},
+        {"shot": 7, "character": "narrator", "line": "狼隊連得8分！最終比分101比100！"},
+        {"shot": 8, "character": "kangaroo_xiaotiao", "line": "(絕望) 不...不...我們輸了1分..."},
+        {"shot": 9, "character": "crowd", "line": "哈哈哈哈！史上最蠢的失誤！"}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
@@ -509,15 +521,17 @@
       "duration": 15,
       "description": "獅子王教練憤怒到極限！「轟！」鬃毛著火！變成火焰獅子！高達10米！全身燃燒！走向小跳，大地震動！",
       "mood": "憤怒、恐怖、震撼",
-      "dialogue": {
-        "lion_coach": "(憤怒到極限) 小跳...你這個...白癡！！！",
-        "rabbit_kaito": "(顫抖) 教...教練...",
-        "bear_dali": "(恐懼) 大家快跑！",
-        "monkey_congming": "(尖叫) 救命啊！",
-        "frog_tiaotiao": "(結巴) 獅...獅子著火了！",
-        "fire_lion_roar": "「轟！」這就是畫蛇添足的下場！",
-        "kangaroo_xiaotiao": "(瑟瑟發抖) 對...對不起..."
-      },
+      "dialogue": [
+        {"shot": 1, "character": "lion_coach", "line": "(憤怒到極限) 小跳...你這個...白癡！！！"},
+        {"shot": 2, "character": "rabbit_kaito", "line": "(顫抖) 教...教練...你的鬃毛..."},
+        {"shot": 3, "character": "narrator", "line": "「轟！」鬃毛著火！爆炸特效！"},
+        {"shot": 4, "character": "bear_dali", "line": "(恐懼) 大家快跑！獅子變身了！"},
+        {"shot": 5, "character": "monkey_congming", "line": "(尖叫) 救命啊！火焰獅子！"},
+        {"shot": 6, "character": "frog_tiaotiao", "line": "(結巴) 十...十米高的火焰獅子！"},
+        {"shot": 7, "character": "fire_lion", "line": "這就是畫蛇添足的下場！"},
+        {"shot": 8, "character": "narrator", "line": "大地震動！全隊驚恐！"},
+        {"shot": 9, "character": "kangaroo_xiaotiao", "line": "(瑟瑟發抖) 對...對不起..."}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
@@ -582,16 +596,17 @@
       "duration": 15,
       "description": "袋鼠小跳被宇宙籃球協會永遠禁賽！球衣被撕碎！跪在太空球場，耳朵完全貼平，尾巴無力垂下，背景是嘲笑的外星動物",
       "mood": "悲傷、教訓、結局",
-      "dialogue": {
-        "announcer": "宇宙籃球協會公告：袋鼠小跳因技術犯規及不當行為，被判處終身禁賽！",
-        "kangaroo_xiaotiao": "(崩潰哭喊) 不！我的籃球生涯！",
-        "rabbit_kaito": "(落淚) 小跳...",
-        "bear_dali": "(哽咽) 隊長...",
-        "monkey_congming": "(哭泣) 我們再也沒有隊長了...",
-        "frog_tiaotiao": "(嘆氣) 這就是...過度炫耀的下場...",
-        "lion_coach": 「畫蛇添足，適得其反。這就是你的教訓。」,
-        "narrator_moral": 「畫蛇添足 - Adding unnecessary things spoils perfection」
-      },
+      "dialogue": [
+        {"shot": 1, "character": "announcer", "line": "宇宙籃球協會公告：袋鼠小跳因技術犯規及不當行為，被判處終身禁賽！"},
+        {"shot": 2, "character": "narrator", "line": "球衣被撕碎！象徵性的毀滅！"},
+        {"shot": 3, "character": "rabbit_kaito", "line": "(落淚) 小跳..."},
+        {"shot": 4, "character": "bear_dali", "line": "(哽咽) 隊長..."},
+        {"shot": 5, "character": "monkey_congming", "line": "(哭泣) 我們再也沒有隊長了..."},
+        {"shot": 6, "character": "kangaroo_xiaotiao", "line": "(崩潰哭喊) 不！我的籃球生涯！"},
+        {"shot": 7, "character": "frog_tiaotiao", "line": "(嘆氣) 這就是...過度炫耀的下場..."},
+        {"shot": 8, "character": "lion_coach", "line": "畫蛇添足，適得其反。這就是你的教訓。"},
+        {"shot": 9, "character": "narrator", "line": "畫蛇添足 - Adding unnecessary things spoils perfection"}
+      ],
       "sub_shots": [
         {
           "shot_number": 1,
